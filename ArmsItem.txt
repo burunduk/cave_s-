@@ -1,0 +1,449 @@
+#0000
+<FRE<WAI9999<END
+
+#1000
+<MSG<TUR
+No weapon.<WAI9999<END
+#1001
+<MSG<TURSNAKE
+It shoots through walls!
+Built by Chaba in the Labyrinth Shop.<WAI9999<END
+#1002
+<MSG<TURPOLAR STAR
+Your very first gun.
+It carries the mark of the Northern Star.
+<WAI9999<END
+#1003
+<MSG<TURFIREBALL
+Its projectiles bounce on the ground.
+Quite useful on slopes.<WAI9999<END
+#1004
+<MSG<TURMACHINE GUN
+A very high-speed firearm.
+Its ammo recharges gradually.<WAI9999<END
+#1005
+<MSG<TURMISSILE LAUNCHER
+Long range arm dealing BIG damage.
+The downside: limited ammunition.<WAI9999<END
+#1007
+<MSG<TURBUBBLINE
+Found in the Assembly Hall fireplace.
+Use it as you like.<WAI9999<END
+#1009
+<MSG<TURBLADE
+A one-hit projectile.
+It contains the spirit of King.<WAI9999<END
+#1010
+<MSG<TURSUPER MISSILE
+A serious missile upgrade.
+Fast and deadly.<WAI9999<END
+
+#1012
+<MSG<TURNEMESIS
+Lightning of the Goddess.
+Level 1 deals the most damage.<WAI9999<END
+#1013
+<MSG<TURSPUR
+Hold the fire button to increase the
+potency of this modified Polar Star.<WAI9999<END
+
+#1100
+<MSG<TUR
+Hajime<WAI9999<END
+#1101
+<MSG<TUR
+Mick<WAI9999<END
+#1102
+<MSG<TUR
+Shinobu<WAI9999<END
+#1103
+<MSG<TUR
+Kakeru<WAI9999<END
+#1104
+<MSG<TUR
+Nene<WAI9999<END
+
+#1200
+<MSG<TUR
+Jenka's pet dog and leader of
+the bunch. Lost while looking for
+his siblings, he likes Curly's place.<WAI9999<END
+#1201
+<MSG<TUR
+Jenka's pet and an adept treasure hunter
+who loves chests. He LOVES sleeping
+inside any chest he can find.<WAI9999<END
+#1202
+<MSG<TUR
+Another of Jenka's lovable puppies.
+This poor little one suffers from bad
+vision, so he sticks to dark places.<WAI9999<END
+#1203
+<MSG<TUR
+Best with a bone. Jenka's pet hides
+so many bones in so many places
+it's hard to keep track of them.<WAI9999<END
+#1204
+<MSG<TUR
+A beautiful dog belonging to Jenka.
+This one dreams the days away
+with long, long naps.<WAI9999<END
+#5000
+<MSG<TUR
+No item.<WAI9999<END
+#5001
+<MSG<TUR
+Arthur's Key<WAI9999<END
+#5002
+<MSG<TUR
+Map System<WAI9999<END
+#5003
+<MSG<TUR
+Santa's Key<WAI9999<END
+#5004
+<MSG<TUR
+Silver Locket<WAI9999<END
+#5005
+<MSG<TUR
+Beast Fang<WAI9999<END
+#5006
+<MSG<TUR
+Life Capsule<WAI9999<END
+#5007
+<MSG<TUR
+ID Card<WAI9999<END
+#5008
+<MSG<TUR
+Jellyfish Jelly<WAI9999<END
+#5009
+<MSG<TUR
+Rusted Key<WAI9999<END
+#5010
+<MSG<TUR
+Gum Key<WAI9999<END
+#5011
+<MSG<TUR
+Gum Base<WAI9999<END
+#5012
+<MSG<TUR
+Charcoal<WAI9999<END
+#5013
+<MSG<TUR
+Bomb<WAI9999<END
+#5014
+<FLJ3000:1100
+<FLJ3001:1101
+<FLJ3002:1102
+<FLJ3003:1103
+<FLJ3004:1104
+<MSG<TUR
+Dog<WAI9999<END
+#5015
+<MSG<TUR
+Life Pot<WAI9999<END
+#5016
+<MSG<TUR
+Cure-All<WAI9999<END
+#5017
+<MSG<TUR
+Clinic Key<WAI9999<END
+#5018
+<MSG<TUR
+Booster v0.8<WAI9999<END
+#5019
+<MSG<TUR
+Arms Barrier<WAI9999<END
+#5020
+<MSG<TUR
+Turbocharge<WAI9999<END
+#5021
+<MSG<TUR
+Curly's Air Tank<WAI9999<END
+#5022
+<MSG<TUR
+290 Counter<WAI9999<END
+#5023
+<MSG<TUR
+Booster v2.0<WAI9999<END
+#5024
+<MSG<TUR
+Mimiga Mask<WAI9999<END
+#5025
+<MSG<TUR
+Teleporter Room Key<WAI9999<END
+#5026
+<MSG<TUR
+Sue's Letter<WAI9999<END
+#5027
+<MSG<TUR
+Controller<WAI9999<END
+#5028
+<MSG<TUR
+Broken Sprinkler<WAI9999<END
+#5029
+<MSG<TUR
+Sprinkler<WAI9999<END
+#5030
+<MSG<TUR
+Tow Rope<WAI9999<END
+#5031
+<MSG<TUR
+Medal of the Red Ogre<WAI9999<END
+#5032
+<MSG<TUR
+Mister Little<WAI9999<END
+#5033
+<MSG<TUR
+Mushroom Badge<WAI9999<END
+#5034
+<MSG<TUR
+Ma Pignon<WAI9999<END
+#5035
+<MSG<TUR
+Curly's Panties<WAI9999<END
+#5036
+<MSG<TUR
+Alien Medal<WAI9999<END
+#5037
+<MSG<TUR
+Chako's Rouge<WAI9999<END
+#5038
+<MSG<TUR
+Whimsical Star<WAI9999<END
+#5039
+<MSG<TUR
+Iron Bond<WAI9999<END
+
+#6000
+<MSG<TUR
+No item.<WAI9999<END
+#6001
+<MSG<TUR
+One of two keys to Arthur's house.
+It was found near Arthur's gravestone.<WAI9999<END
+#6002
+<PRI<EVE7002<MPJ7002<MSG
+No data for this floor.<NOD<CLR<END
+#6003
+<MSG<TUR
+Santa's house key.<WAI9999<END
+#6004
+<MSG<TUR
+A silver locket in the shape of a fish.
+From the wear on it, the locket must've
+been dear to someone for many years.<WAI9999<END
+#6005
+<MSG<TUR
+You're not supposed to find this.
+How'd you do it?<WAI9999<END
+#6006
+<MSG<TUR
+A Life Capsule.<WAI9999<END
+#6007
+<MSG<TUR
+An ID Card found inside Egg No. 06.<WAI9999<END
+#6008
+<MSG<TUR
+A fluid that can extinguish fires.<WAI9999<END
+#6009
+<MSG<TUR
+A rusty key.<WAI9999<END
+#6010
+<MSG<TUR
+It has the word, "Gum".<WAI9999<END
+#6011
+<MSG<TUR
+A piece of gum.<WAI9999<END
+#6012
+<MSG<TUR
+Removed from a fireplace.<WAI9999<END
+#6013
+<MSG<TUR
+A bomb for blowing up doors.<WAI9999<END
+#6014
+<FLJ3000:1200
+<FLJ3001:1201
+<FLJ3002:1202
+<FLJ3003:1203
+<FLJ3004:1204
+<MSG<TUR
+Jenka's pet dog.<WAI9999<END
+#6015
+<KEY<MSG
+This will restore life, but just
+one time. Use it now?<YNJ0000<LI+1000<SOU0020<IT-0015<MSG
+Life restored.<FRE<WAI9999<END
+#6016
+<MSG<TUR
+A medicine that cures anything?<WAI9999<END
+#6017
+<MSG<TUR
+It reads, "Labyrinth Clinic".<WAI9999<END
+#6018
+<FLJ0742:7018
+<KEY<MSG
+Push the jump button while airborne
+to boost for a limited time.<NOD<CLR
+Equip it?<YNJ0000<EQ+0001<FL+0742<EQ-0032<FL-0743<MSG
+Booster equipped.<NOD<WAI0003<FRE<EVE5018
+#6019
+<MSG<TUR
+Weapon energy lost from sustaining
+damage is halved.<WAI9999<END
+#6020
+<MSG<TUR
+Speeds up the rate of ammo
+recovery from the machine gun.<WAI9999<END
+#6021
+<MSG<TUR
+Allows for underwater breathing.
+Curly gave it to you.<WAI9999<END
+#6022
+<MSG<TUR
+A fully automatic timer.
+It has no buttons.<WAI9999<END
+#6023
+<FLJ0743:7023
+<KEY<MSG
+Press the jump button while airborne
+and boost in one of four directions.<NOD<CLR
+Do you want to equip it?<YNJ0000<EQ+0032<FL+0743<EQ-0001<FL-0742<MSG
+Equipped Booster v2.0.<NOD<WAI0003<FRE<EVE5023
+#6024
+<MSG<TUR
+A mask made by Momorin Sakamoto.
+It's kinda big for you...<WAI9999<END
+#6025
+<MSG<TUR
+A key fished out by a friendly
+Mimiga named Kanpachi.<WAI9999<END
+#6026
+<KEY<MSG
+Want to read it?<YNJ0000<MSG<TUR
+Hey, it's me, Sue.<NOD<CLR
+I don't remember telling you anything
+about us. We came to the island as a
+research group.<NOD<CLR
+It was me, my Mom, Kazuma, Professor
+Booster and a few assistants.
+...The Doctor was with us, too.<NOD<CLR
+He was supposed to take care of our
+medical needs and did, I guess...<NOD<CLR
+But that all changed when he found
+the Demon Crown...<WAI0020<NOD
+That Crown used to belong to the
+master of this island--<NOD<CLR
+and grants immense magical powers
+to the person who dons it. <NOD<CLR
+The Doctor knew about it well before
+coming to the island. It's the reason
+he forced himself onto our group.<NOD<CLR
+After he grabbed hold of the crown
+that was pretty much it, we couldn't
+do anything about it.<NOD<CLR
+The only thing we could do was
+continue the research of the island
+under his command.<NOD<CLR
+He seeks to rule the surface using
+the island as a flying fortress.<NOD<CLR
+From what I can tell, he plans on
+attacking the surface with the
+enraged Mimiga army.<NOD<CLR
+I was able to escape, however,
+the other researchers are probably...<NOD<CLR
+Of course, he's using the innocent
+Mimiga to grow a large quantity of
+the red flowers. <NOD<CLR
+And once he's ready to attack...<NOD
+He's gonna send the Mimiga into a
+state of insane rage by feeding
+them red  flowers.<NOD<CLR
+With his powers from the crown he'll
+control them and me, too.<NOD<CLR
+If you can get out of the jail,
+please look for a hidden safe house
+somewhere within the Plantation.<NOD<CLR
+If my Mom is still alive then
+she'll be there working on a plan
+of her own to beat the Doctor.<NOD<CLR
+Please, help her as much as you can.<NOD<CLR
+Before I forget, the password to get
+into the safe house is "yrotS evaC".<NOD<CLR<FL+1024<FRE<MSG
+That's the end of the letter.<WAI9999<END
+#6027
+<MSG<TUR
+Required to make a rocket.
+Pride of Itoh, the big fat coward.<WAI9999<END
+#6028
+<MSG<TUR
+A broken water sprinkler.<WAI9999<END
+#6029
+<MSG<TUR
+It's new. ...Isn't it?<WAI9999<END
+#6030
+<MSG<TUR
+A tow rope for robots.<WAI9999<END
+#6031
+<MSG<TUR
+Small and incredibly heavy.
+It has no use.<WAI9999<END
+
+#6032
+<MSG<TUR
+We there yet?<WAI9999<END
+#6033
+<MSG<TUR
+A mushroom badge obtained from
+Ma Pignon. It serves no purpose. <FL+1563<WAI9999<END
+#6034
+<MSG<TUR
+It is said to have the power to
+restore memories...<WAI9999<END
+#6035
+<MSG<TUR
+Found behind a wall.
+Green panties with a cute little
+red insignia. They have no use.<WAI9999<END
+#6036
+<MSG<TUR
+Engraved with the image of a
+space alien. It has no use, Ika...<WAI9999<END
+#6037
+<MSG<TUR
+Red lipstick from Chako.
+It has no use.<WAI9999<END
+#6038
+<KEY<MSG
+A little item from Chaba in the
+labyrinth, a whimsical star.<NOD<FLJ0722:7038<CLR
+Equip it?<YNJ0000<EQ+0128<FL+0722<MSG
+Equipped the Whimsical Star.<NOD<WAI0003<FRE<EVE5038
+#6039
+<MSG<TUR
+Your connection to Curly Brace,
+the only person you trust.
+You'll see each other again...<WAI9999<END
+
+#7002
+<MLP<END
+
+#7018
+<KEY<MSG
+Unequip it?<YNJ0000<EQ-0001<FL-0742<MSG
+Unequipped Booster.<NOD<WAI0003<FRE<EVE5018
+#7023
+<KEY<MSG
+Unequip it?<YNJ0000<EQ-0032<FL-0743<MSG
+Unequipped Booster v2.0.<NOD<WAI0003<FRE<EVE5023
+
+#7038
+<KEY<MSG
+Unequip it?<YNJ0000<EQ-0128<FL-0722<MSG
+Unequipped the Whimsical Star.<NOD<WAI0003<FRE<EVE5038
+
+>>>
+3000 Â¢ÌB
+3001
+3002
+3003
+3004
