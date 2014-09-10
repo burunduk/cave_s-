@@ -12,7 +12,7 @@ Bushlands<WAI9999<END
 Sand Zone<WAI9999<END
 #1004
 <KEY<MSG<TUR
-Labyrinth<WAI9999<END
+Ћаб≥ринт<WAI9999<END
 #1005
 <KEY<MSG<TUR
 Plantation<WAI9999<END

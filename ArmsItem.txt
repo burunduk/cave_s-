@@ -93,16 +93,16 @@ with long, long naps.<WAI9999<END
 No item.<WAI9999<END
 #5001
 <MSG<TUR
-Arthur's Key<WAI9999<END
+Ключ Артура <WAI9999<END
 #5002
 <MSG<TUR
-Map System<WAI9999<END
+Навігаційна система <WAI9999<END
 #5003
 <MSG<TUR
-Santa's Key<WAI9999<END
+Ключ Санти <WAI9999<END
 #5004
 <MSG<TUR
-Silver Locket<WAI9999<END
+Срібний медальйон <WAI9999<END
 #5005
 <MSG<TUR
 Beast Fang<WAI9999<END

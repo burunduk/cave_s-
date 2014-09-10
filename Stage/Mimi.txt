@@ -92,8 +92,8 @@ We have to inform King!!!<NOD<CLO
 #0200
 <PRI<FLJ0322:0201<FL+0322<SOU0022<CNP0200:0021:0000
 <MSG
-Opened the treasure chest.<NOD<GIT1002<IT+0002<EQ+0002<CLR
-<CMU0010Obtained the Map System.<WAI0160<NOD<RMU<EVE0201
+Відкрито скриньку зі скарбами.<NOD<GIT1002<IT+0002<EQ+0002<CLR
+<CMU0010Отримано навігаційну систему.<WAI0160<NOD<RMU<EVE0201
 #0201
 <PRI<MSG
 Something's written...<NOD<CLR

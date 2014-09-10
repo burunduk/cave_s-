@@ -45,6 +45,6 @@
 #0400
 <PRI<SOU0022<DNP0400<CMU0016
 <MSG<GIT1006
-Obtained a Life Capsule.<WAI0160<NOD<RMU<ML+0003
-Max life increased by 3.<NOD<END
+Отримано капсулу здоров'я.<WAI0160<NOD<RMU<ML+0003
+Запас здоров'я збільшено на 3.<NOD<END
 

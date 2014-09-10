@@ -24,8 +24,8 @@ It won't open...<NOD<END
 #0300
 <PRI<SOU0022<DNP0300<CMU0016
 <MSG<GIT1006
-Obtained a Life Capsule.<WAI0160<NOD<RMU<ML+0005
-Max life increased by 5.<NOD<END
+Отримано капсулу здоров'я.<WAI0160<NOD<RMU<ML+0005
+Запас здоров'я збільшено на 5.<NOD<END
 
 
 

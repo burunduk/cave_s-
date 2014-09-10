@@ -3,63 +3,63 @@
 
 #0001
 <PRI<MSG
-Empty.<NOD<END
+Порожньо.<NOD<END
 
 #0016
 <PRI<MSG
-Do you want to save?<YNJ0000<FL+0431<SVP<CLR
-Game saved.<NOD<END
+Зберегти гру?<YNJ0000<FL+0431<SVP<CLR
+Гру збережено.<NOD<END
 
 #0017
 <PRI<FLJ0201:0018
 <LI+1000<SOU0020<AE+<MSG
-Life refilled.<NOD<END
+Здоров'я відновлено.<NOD<END
 #0018
 <PRI
 <LI+1000<SOU0020<AE+<MSG
-Life and missiles refilled.<NOD<END
+Здоров'я та ракети відновлено.<NOD<END
 
 #0019
 <KEY<MSG
-Do you want to rest?<YNJ0000<FAO0004<CMU0000<WAI0020<CLR
+Бажаєш відпочити?<YNJ0000<FAO0004<CMU0000<WAI0020<CLR
 .....<NOD<CLO
 <WAI0050
 <LI+1000<SOU0020<MYD0002<MSG
-Life refilled.<NOD<CLO<RMU<FAI0004<END
+Здоров'я відновлено.<NOD<CLO<RMU<FAI0004<END
 
 #0030
 <PRI<FLJ0202:0032<FLJ0201:0031<FL+0201<GIT0005<AM+0005:0010
-<CMU0010Obtained the Missile Launcher.<WAI0160<NOD<RMU<CLR
-The Missile Launcher is a powerful
-weapon, but it has limited ammo.<NOD
-Collect additional ammunition
-from fallen enemies.<NOD<END
+<CMU0010Отримано ракетницю.<WAI0160<NOD<RMU<CLR
+Ракетниця - потужна зброя, але 
+з обмеженою кількістю ракет.<NOD
+Вибивай додаткові ракети 
+з ворогів.<NOD<END
 #0031
 <PRI<AM+0005:0005<MSG
-<GIT0006Max missiles increased by <NUM0000.<NOD<END
+<GIT0006Кількість ракет збільшено на <NUM0000.<NOD<END
 #0032
 <PRI<AM+0010:0005<MSG
-<GIT0011Max missiles increased by <NUM0000.<NOD<END
+<GIT0011Кількість ракет збільшено на <NUM0000.<NOD<END
 
 #0040
 <KEY<CMU0000<WAI0040<PRI<WAI0040<CMU0003
 <MSG
-You have died.<NOD<CLR
-Want to retry?<YNJ0049<CLO
+Ти загинув.<NOD<CLR
+Бажаєш повторити?<YNJ0049<CLO
 <FAO0001<WAI0050<FLJ0431:0048<INI<END
 
 #0041
 <KEY<CMU0000<HMC<WAI0040<PRI<WAI0040<CMU0003
 <MSG
-You have drowned.<NOD<CLR
-Want to retry?<YNJ0049<CLO
+Ти потонув.<NOD<CLR
+Бажаєш повторити?<YNJ0049<CLO
 <FAO0001<WAI0050<FLJ0431:0048<INI<END
 
 #0042
 <KEY<CMU0000<WAI0040<PRI<WAI0040<CMU0003
 <MSG<HMC
-You were never seen again...<NOD<CLR
-Want to retry?<YNJ0049<CLO
+Ми більше тебе не побачимо...<NOD<CLR
+Бажаєш повторити?<YNJ0049<CLO
 <FAO0001<WAI0050<FLJ0431:0048<INI<END
 
 #0048

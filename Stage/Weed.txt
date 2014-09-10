@@ -111,7 +111,7 @@ No matter...<NOD<CLO<EVE0207
 <ITJ0008:0204<NCJ0094:0203
 <PRI<SOU0022<CNP0202:0021:0000
 <MSG
-Opened the treasure chest.<NOD<GIT1008<IT+0008<CLR
+Відкрито скриньку зі скарбами.<NOD<GIT1008<IT+0008<CLR
 <CMU0010Obtained the Jellyfish Juice.<WAI0160<NOD<DNP0202<RMU<END
 #0203
 <SOU0072<CNP0202:0015:0002<END
@@ -234,13 +234,13 @@ The Bomb has been set!<NOD<CLO
 <PRI<FLJ0218:0001<FL+0218
 <SOU0022<CNP0302:0021:0000
 <MSG
-Opened the treasure chest.<NOD<EVE0030
+Відкрито скриньку зі скарбами.<NOD<EVE0030
 
 #0305
 <PRI<DNP0305<SOU0022<CMU0016
 <MSG<GIT1006
-Obtained a Life Capsule.<WAI0160<NOD<RMU<ML+0005
-Max life increased by 5.<NOD<END
+Отримано капсулу здоров'я.<WAI0160<NOD<RMU<ML+0005
+Запас здоров'я збільшено на 5.<NOD<END
 
 #0400
 #0401

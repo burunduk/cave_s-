@@ -112,22 +112,22 @@
 <PRI<FLJ1551:0001<FL+1551
 <SOU0022<CNP0390:0021:0000
 <MSG
-Opened the treasure chest.<NOD<CLR<EVE0400
+Відкрито скриньку зі скарбами.<NOD<CLR<EVE0400
 #0400
 <PRI<FLJ0202:0402<FLJ0201:0401<FL+0201<GIT0005<AM+0005:0100
-<CMU0010Obtained the Missile Launcher.<WAI0160<NOD<RMU<CLR
-The Missile Launcher is a powerful
-weapon, but it has limited ammo.<NOD
-Collect additional ammunition
-from fallen enemies.<NOD<END
+<CMU0010Отримано ракетницю.<WAI0160<NOD<RMU<CLR
+Ракетниця - потужна зброя, але 
+з обмеженою кількістю ракет.<NOD
+Вибивай додаткові ракети 
+з ворогів.<NOD<END
 #0401
 <PRI<AM+0005:0032
 <MSG
-<GIT0006Max missiles increased by <NUM0000.<NOD<END
+<GIT0006Кількість ракет збільшено на <NUM0000.<NOD<END
 #0402
 <PRI<AM+0010:0024
 <MSG
-<GIT0011Max missiles increased by <NUM0000.<NOD<END
+<GIT0011Кількість ракет збільшено на <NUM0000.<NOD<END
 
 
 #0900

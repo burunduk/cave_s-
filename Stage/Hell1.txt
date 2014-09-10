@@ -40,8 +40,8 @@ Welcome to Hell!<NOD<END
 #0400
 <PRI<SOU0022<DNP0400
 <MSG<GIT1006
-Obtained a Life Capsule.<NOD<ML+0005
-Max life increased by 5.<NOD<END
+Отримано капсулу здоров'я.<NOD<ML+0005
+Запас здоров'я збільшено на 5.<NOD<END
 
 #0420
 <DNP0420

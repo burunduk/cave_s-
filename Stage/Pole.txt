@@ -20,14 +20,14 @@
 #0200
 <KEY<FLJ1640:0201<FL+1640<SOU0022<CNP0200:0021:0000
 <MSG
-Opened the treasure chest.<NOD<GIT0002<AM+0002:0000<CLR<CMU0010
+Відкрито скриньку зі скарбами.<NOD<GIT0002<AM+0002:0000<CLR<CMU0010
 Obtained the Polar Star.<WAI0160<NOD<GIT0000<CLO<RMU
 <MSG
-Someone's transmission...<FAO0004<NOD<TRA0018:0501:0002:0000
+Чиясь передача даних...<FAO0004<NOD<TRA0018:0501:0002:0000
 
 #0201
 <PRI<MSG
-It's empty.<NOD<END
+Тут порожньо.<NOD<END
 
 #0210
 

@@ -144,6 +144,6 @@ a burden than a help.<NOD<FL+0760<FL+0703<END
 #0400
 <KEY<FLJ0705:0001<FL+0705<SOU0022<CNP0400:0021:0000
 <MSG
-Opened the treasure chest.<NOD<GIT1019<IT+0019<EQ+0004<CLR
+Відкрито скриньку зі скарбами.<NOD<GIT1019<IT+0019<EQ+0004<CLR
 <CMU0010Obtained the Arms Barrier.<WAI0160<NOD<RMU<END
 

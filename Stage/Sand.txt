@@ -170,7 +170,7 @@ Do you want to bring him along?<YNJ0000<CLR
 <END
 #0402
 <PRI<MSG<SOU0105
-Woof!<NOD<ITJ0014:0410<CLR
+Гав!<NOD<ITJ0014:0410<CLR
 Do you want to bring him along?<YNJ0000<CLR
 <CNP0402:0136:0000<FL+0276<GIT1014<IT+0014Picked up the Dog.<NOD<FL+0274<CLO
 <FL-3000<FL-3001<FL-3002<FL+3003<FL-3004
@@ -183,8 +183,8 @@ You can't take two with you.<NOD<END
 #0412
 <PRI<SOU0022<CNP0412:0021:0000
 <MSG
-Opened the treasure chest.<NOD<GIT1014<CNP0412:0130:0000<CLR
-It's a dog...<NOD<ITJ0014:0413<CLR
+Відкрито скриньку зі скарбами.<NOD<GIT1014<CNP0412:0130:0000<CLR
+Тут... собака...<NOD<ITJ0014:0413<CLR
 <CNP0412:0136:0000<FL+0279<GIT1014<IT+0014<CMU0010Picked up the Dog.<WAI0160<NOD<RMU<CLO
 <FL-3000<FL+3001<FL-3002<FL-3003<FL-3004
 <FL+0274<END
@@ -197,14 +197,14 @@ You can't take two with you.<NOD<CNP0412:0015:0000<END
 #0500
 <PRI<DNP0500<SOU0022<CMU0016
 <MSG<GIT1006
-Obtained a Life Capsule.<WAI0160<NOD<RMU<ML+0005
-Max life increased by 5.<NOD<END
+Отримано капсулу здоров'я.<WAI0160<NOD<RMU<ML+0005
+Запас здоров'я збільшено на 5.<NOD<END
 
 #0501
 <PRI<DNP0501<SOU0022<CMU0016
 <MSG<GIT1006
-Obtained a Life Capsule.<WAI0160<NOD<RMU<ML+0005
-Max life increased by 5.<NOD<END
+Отримано капсулу здоров'я.<WAI0160<NOD<RMU<ML+0005
+Запас здоров'я збільшено на 5.<NOD<END
 
 
 #1200

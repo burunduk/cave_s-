@@ -50,6 +50,6 @@ All weapons drop to Level 1!<NOD<CLO
 #0251
 <PRI<FLJ1320:0001<FL+1320<SOU0022<CNP0251:0021:0000
 <MSG
-Opened the treasure chest.<NOD<GIT1031<IT+0031<CLR
+Відкрито скриньку зі скарбами.<NOD<GIT1031<IT+0031<CLR
 <CMU0010Obtained the Medal of the Red Ogre.<ACH0041<WAI0160<NOD<RMU<END
 

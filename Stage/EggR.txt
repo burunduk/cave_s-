@@ -29,7 +29,7 @@ remove the shield somewhere...<NOD<END
 <PRI<FLJ0200:0001<FL+0200
 <SOU0022<CNP0300:0021:0000
 <MSG
-Opened the treasure chest.<NOD<CLR<EVE0030
+Відкрито скриньку зі скарбами.<NOD<CLR<EVE0030
 
 
 #0500

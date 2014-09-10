@@ -20,7 +20,7 @@ It won't open...<NOD<END
 #0201
 <KEY<FLJ1700:0202<FL+1700<SOU0022<CNP0200:0021:0000
 <MSG
-Opened the treasure chest.<NOD<GIT1022<IT+0022<CLR
+Відкрито скриньку зі скарбами.<NOD<GIT1022<IT+0022<CLR
 <CMU0010Obtained the 290 Counter.<WAI0160<NOD<RMU<EVE0202
 #0202
 <KEY<MSG

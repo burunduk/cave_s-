@@ -26,11 +26,11 @@
 
 
 #0105
-<PRI<MSGWant to save?<YNJ0000<SVP<CLR
-Game saved.<NOD<END
+<PRI<MSGЗберегти гру?<YNJ0000<SVP<CLR
+Гру збережено.<NOD<END
 #0106
 <PRI<LI+1000<SOU0020<AE+<MSG
-Life replenished.<NOD<END
+Здоров'я поповнено.<NOD<END
 
 #0200
 <KEY<MSG
@@ -66,6 +66,6 @@ How did you get the Beast Fang?
 #0400
 <PRI<SOU0022<DNP0400<CMU0016
 <MSG<GIT1006
-Obtained a Life Capsule.<WAI0160<NOD<RMU<ML+0003
-Max life increased by 3.<NOD<END
+Отримано капсулу здоров'я.<WAI0160<NOD<RMU<ML+0003
+Запас здоров'я збільшено на 3.<NOD<END
 

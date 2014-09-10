@@ -74,7 +74,7 @@ What the heck is going on?!?<NOD<END
 #0320
 <PRI<FLJ0880:0001<FL+0880<SOU0022<CNP0320:0021:0000
 <MSG
-Opened the treasure chest.<NOD<EVE0030
+Відкрито скриньку зі скарбами.<NOD<EVE0030
 
 
 #1200

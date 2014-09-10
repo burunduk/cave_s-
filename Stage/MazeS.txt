@@ -36,7 +36,7 @@ is preventing it from being opened...<NOD<END
 <FLJ0766:0001<FL+0766<FL-0765<FL+0202
 <SOU0022<CNP0200:0021:0000
 <MSG
-Opened the treasure chest.<NOD<CLR<TAM0005:0010:0000
+Відкрито скриньку зі скарбами.<NOD<CLR<TAM0005:0010:0000
 <CMU0010<GIT0010Missiles are powered up!<WAI0160<NOD<RMU<END
 
 #0300

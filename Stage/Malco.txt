@@ -159,7 +159,7 @@ immediately!<NOD<GIT0000<CLO
 <FAO0001<WAI0100<FAI0001
 <MSG
 It is complete!<NOD<GIT1013<IT+0013<FL+0221<CLR
-<CMU0010Obtained the Bomb.<WAI0160<NOD<RMU<CLR
+<CMU0010Отримано вибухівку.<WAI0160<NOD<RMU<CLR
 Now, go and blow up that door!<NOD<END
 
 #0313
