@@ -74,9 +74,9 @@ LM#0107
 #0111
 <KEY<FL+0327<FL+0443<MSG<FAC0009
 Що ти сказав?!?<NOD
-Toroko's been kidnapped?!<NOD
+Тороко викрали?!<NOD
 Це жахливо!!<NOD
-Ми маємо повідомити Кінґа!!!<NOD<CLO
+Ми маємо повідомити це Кінґу!!!<NOD<CLO
 <MYD0000
 <ANP0111:0008:0000<WAI0208
 <ANP0111:0000:0002<WAI0010
@@ -122,7 +122,7 @@ There are only six of us
 left in the village.<NOD<CLR
 Ну, якщо чесно...<NOD<CLR
 ...включно із Сью буде сім.
-Але не одна із нас.<NOD
+Але вона не одна із нас.<NOD
 She's just an outsider that
 came into our village.<NOD<END
 
@@ -169,12 +169,12 @@ commotion and escaped.<NOD<END
 <KEY<MSG<FAC0007
 АААГРР!<NOD<CLR
 Тороко!!!<NOD
-Don't underestimate me!<NOD<END
+Не варто недооцінювати мене!<NOD<END
 #0307
 #0308
 <KEY<MYD0002<FAI0002<CMU0000<WAI0020
 <MSG<FAC0007
-Hand over that key!<NOD<CLR<FAC0008
+Віддай цею ключ!<NOD<CLR<FAC0008
 Нііі!<NOD<CLO
 <ANP0307:0006:0002<WAI0060
 <ANP0306:0006:0002<SOU0016<WAI0100<DNP0307<FL-0371<CMU0009<END
@@ -183,7 +183,7 @@ Hand over that key!<NOD<CLR<FAC0008
 
 #0311
 <KEY<MSG
-Ммм...(ковть)!<NOD<CLR
+Ммм... (ковть)!<NOD<CLR
 !<NOD<CLO
 <MYB0000<ANP0311:0002:0004<WAI0030<MYD0000
 <FLJ0156:0313
@@ -213,7 +213,7 @@ Is there a party going there?<NOD<ANP0311:0000:0002<END
 #0314
 <KEY<MSG
 HUH?<NOD<CLR
-Toroko has been kidnapped?<NOD<CLR
+Тороко викрали?<NOD<CLR
 Bah...<NOD
 Now the only girl left in the entire
 village is Sue.<NOD<ANP0311:0000:0002<END
@@ -275,10 +275,10 @@ I won't let that happen!<NOD<CLO
                   Yamashita Farm<NOD<END
 #0502
 <KEY<MSG<TUR
-                Резервуар <NOD<END
+                 Резервуар <NOD<END
 #0503
 <KEY<MSG<TUR
-                   Mimiga Cemetery
+                   Цвинтар Міміґ 
    Закрито через небезпеку зараження.<NOD<END
 #0504
 <KEY<MSG<TUR

@@ -34,24 +34,25 @@
 
 #0200
 <KEY<MSG
-This is the farm where we grow flowers.<NOD
-My job is to protect this farm...<NOD<CLR
+Це - ферма, де ми вирощуємо квіти.<NOD
+В мої обов'язки входить захист 
+цієї ферми...<NOD<CLR
 To us Mimiga these flowers are a 
 precious source of food.<NOD<CLR
-But not the red flowers.<NOD<CLR
-I heard that if we eat red flowers our
-blood pressure skyrockets and we'll
-die in an instant!<NOD<CLR
-Fortunately, on this farm we don't grow
-those vile red flowers.<NOD<END
+Але тільки не червоні квіти.<NOD<CLR
+Я чув, що якщо ми їстимо червоні 
+квіти, наш кров'яний тиск 
+підскочить і ми загинемо в мить!<NOD<CLR
+Нащастя, на цій фермі не ростуть 
+ці огидні червоні квіти.<NOD<END
 
 
 #0220
 <KEY<FLJ1020:0221<MSG
-It's a sprinkler.<NOD<END
+Це розбризкувач.<NOD<END
 #0221
 <KEY<MSG
-It's fixed firmly to the ground!<NOD<END
+Він міцно прикріплений до землі!<NOD<END
 
 #0300
 <PRI

@@ -35,12 +35,12 @@
 Ага, Сью!<NOD<CLR
 Це та дівчина, що переховувалась 
 в середині будинку Артура?<NOD
-She recently came to Mimiga Village.<NOD
-She fell into the reservoir there.<NOD
-I don't think she's very fond of us.<NOD
-It seems like she hates everyone 
-in the village, but she's a Mimiga,<NOD
-same as the rest of us...<NOD<END
+Вона нещодавно потрапила до нас.<NOD
+Вона впала в тут в цей резервуар.<NOD
+Я не впевнений, що їй добре серед нас.<NOD
+Здається вона ненавидить кожного 
+в поселенні.<NOD
+Але вона Міміґа, така ж як і всі ми...<NOD<END
 
 #0300
 <PRI

@@ -30,11 +30,11 @@ replacements around for them.<NOD<END
 
 #0202
 <KEY<MSG<FL+1121
-It broke again...<NOD<CLR<GIT1028<IT-0028
-Gave him the Broken Sprinkler.<NOD<GIT0000
+Він знову зламався...<NOD<CLR<GIT1028<IT-0028
+Віддали йому зламаний розбризкувач.<NOD<GIT0000
 <KEY<MSG
 Use this one more carefully.<NOD<DNP0280<GIT1029<IT+0029<CLR
-<CMU0010Obtained the Sprinkler.<WAI0160<NOD<RMU<END
+<CMU0010Отримано розбризкувач.<WAI0160<NOD<RMU<END
 
 #0203
 <KEY<MSG

@@ -141,20 +141,20 @@ Hmm... Maybe.<NOD<END
 <FLJ1028:0252
 <FLJ1020:0251
 <PRI<MSG
-This sprinkler is...<NOD<CLR
-Oops!
-I can't be talking to humans.<NOD<END
+Цей розбризкувач...<NOD<CLR
+Упсс!
+Я не повинен розмовляти з людьми.<NOD<END
 
 #0251
 <PRI<MSG
-These sprinklers are very useful,<NOD
-but they're so easy to break.<NOD<END
+Ці розбризкувачі корстні, <NOD
+але їх дуже легко зламати.<NOD<END
 
 #0252
 <PRI<FL+1029<MSG
-It broke AGAIN!<NOD<CLR
+Він зламався ЗНОВУ!<NOD<CLR
 .....<NOD<CLR
-Hey, you, new guy!
+Агов, ти, новенький!
 Go exchange this sprinkler with a
 new one that hopefully works.<NOD<END
 
