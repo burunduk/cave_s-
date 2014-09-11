@@ -34,7 +34,7 @@ All weapons drop to Level 1!<NOD<CLO
 
 #0200
 <PRI<MSG<TUR
-Welcome to Hell!<NOD<END
+Ласкаво просимо до Пекла!<NOD<END
 
 
 #0400

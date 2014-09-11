@@ -17,13 +17,14 @@
 <ANP0200:0050:0005<CMU0000<END
 #0201
 <PRI<MSG
-Red flower petals litter the floor.<NOD<END
+Ћипестки червоних кв≥т≥в 
+розкидан≥ по п≥длоз≥.<NOD<END
 #0202
 <PRI<FLJ0550:0203<MSG
-You sense something...<NOD<END
+“и щось в≥дчуваЇш...<NOD<END
 #0203
 <PRI<MSG
-There's nothing there.<NOD<END
+“ут н≥чого немаЇ.<NOD<END
 
 #0300
 <PRI<FLJ0550:0001<FL+0550

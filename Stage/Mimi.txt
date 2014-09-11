@@ -26,11 +26,11 @@
 <PRI<FLJ0324:0102
 <ITJ0001:0101
 <MSG
-It's locked.<NOD<END
+Зачинено.<NOD<END
 #0101
 <SOU0022<GIT1001<FL+0324<FL+0441
 <MSG
-Used Arthur's Key.<NOD<GIT0000<CLO<EVE0102
+Використано ключ Артура.<NOD<GIT0000<CLO<EVE0102
 #0102
 <SOU0011<CNP0100:0000:0000<FAO0004<TRA0001:0094:0017:0008
 
@@ -47,7 +47,7 @@ Beyond here is Mimiga
 Cemetery.<NOD<CLR
 There our hero, Arthur, rests
 eternally in peace.<NOD<CLR
-What am I doing here?<NOD<CLR
+Що я тут роблю?<NOD<CLR
 Mushrooms have taken over
 Mimiga Cemetery.<NOD
 So, I'm keeping watch to make
@@ -73,10 +73,10 @@ LM#0107
 
 #0111
 <KEY<FL+0327<FL+0443<MSG<FAC0009
-What did you say?!?<NOD
+Що ти сказав?!?<NOD
 Toroko's been kidnapped?!<NOD
-That's terrible!!<NOD
-We have to inform King!!!<NOD<CLO
+Це жахливо!!<NOD
+Ми маємо повідомити Кінґа!!!<NOD<CLO
 <MYD0000
 <ANP0111:0008:0000<WAI0208
 <ANP0111:0000:0002<WAI0010
@@ -96,7 +96,7 @@ We have to inform King!!!<NOD<CLO
 <CMU0010Отримано навігаційну систему.<WAI0160<NOD<RMU<EVE0201
 #0201
 <PRI<MSG
-Something's written...<NOD<CLR
+Щось написано в середені...<NOD<CLR
 So as long as you always maintain 
 a sense of exploration,<NOD 
 you will someday find the way out.<NOD<CLR
@@ -109,40 +109,40 @@ This is my hope.<NOD<END
 .....<NOD<CLO
 <MYB0000<WAI0050<MYD0000<CNP0301:0061:0002<WAI0008<CNP0301:0061:0004
 <MSG<FAC0007
-What?<NOD
-You're not an enemy?
-I thought you were one 
-of them...<NOD<CLR
-My name is King.<NOD
+Що?<NOD
+Ти не ворог?
+Я вважав, що ти один 
+із них...<NOD<CLR
+Мене звати Кінґ.<NOD
 I'm the number one in
 this village.<NOD
 Though I say number one, it 
 doesn't really mean much.<NOD
 There are only six of us 
 left in the village.<NOD<CLR
-Well, really...<NOD<CLR
-...including Sue it's seven.
-But she's not one of us.<NOD
+Ну, якщо чесно...<NOD<CLR
+...включно із Сью буде сім.
+Але не одна із нас.<NOD
 She's just an outsider that
 came into our village.<NOD<END
 
 #0302
 <KEY<FL+0320<FL+0321<FON0302:0016<MNA<FAI0004<CMU0000<WAI0100
 <MSG<FAC0007
-Gimme the key!<NOD<CLR<FAC0008
-No way!<NOD<CLR<FAC0007
-Are you trying to protect
-that Sue girl?<NOD
+Дай мені ключ!<NOD<CLR<FAC0008
+Нізащо!<NOD<CLR<FAC0007
+Ти намагаєшся захистити 
+ту дівчину Сью?<NOD
 She's an outsider!<NOD<CLR<FAC0006
-Sue is a good person.<NOD
+Сью хороша людина.<NOD
 I won't betray Sue!<NOD<CLR<FAC0007
-Toroko...<NOD
+Тороко...<NOD
 The next time that the 
 Doctor shows up someone 
 else will be taken away.<NOD
 If Sue isn't turned in you
 could be in danger.<NOD<CLR<FAC0006
-Bu, but...<NOD<CLR<FAC0007
+Ал, але...<NOD<CLR<FAC0007
 Just hand over the key!<NOD
 <FAC0000<CLO
 <MOV0013:0022
@@ -167,15 +167,15 @@ She took advantage of the
 commotion and escaped.<NOD<END
 #0306
 <KEY<MSG<FAC0007
-AAARGH!<NOD<CLR
-Toroko!!!<NOD
+АААГРР!<NOD<CLR
+Тороко!!!<NOD
 Don't underestimate me!<NOD<END
 #0307
 #0308
 <KEY<MYD0002<FAI0002<CMU0000<WAI0020
 <MSG<FAC0007
 Hand over that key!<NOD<CLR<FAC0008
-Nooo!<NOD<CLO
+Нііі!<NOD<CLO
 <ANP0307:0006:0002<WAI0060
 <ANP0306:0006:0002<SOU0016<WAI0100<DNP0307<FL-0371<CMU0009<END
 #0309
@@ -183,26 +183,26 @@ Nooo!<NOD<CLO
 
 #0311
 <KEY<MSG
-Mmm...gulp!<NOD<CLR
+Ммм...(ковть)!<NOD<CLR
 !<NOD<CLO
 <MYB0000<ANP0311:0002:0004<WAI0030<MYD0000
 <FLJ0156:0313
 <FLJ0120:0312
 <FLJ0360:0314
 <MSG
-Geez, you scared me...<NOD<CLR
-Sue?<NOD
-Oh!<NOD<CLR
-You mean the girl staying at Arthur's
-house, right?<NOD<CLR
-She lives together with Toroko.<NOD<CLR
-That girl's a real cutie.<NOD
+Дідько, ти налякав мене...<NOD<CLR
+Сью?<NOD
+Ох!<NOD<CLR
+Ти про дівчину, що лишилась в 
+будинку Артура, так?<NOD<CLR
+Вона жила разом із Тороко.<NOD<CLR
+Ця дівчина точно навіжена.<NOD
 She must be lookin' for flying dragons.<NOD
 Wonder if there really is such a thing...<NOD<CLR
 ...Dragons that fly in the sky.<NOD<ANP0311:0000:0002<END
 #0312
 <MSG
-Oh, it's you...<NOD<CLR
+А, це ти......<NOD<CLR
 Sue's been taken upstairs.<NOD
 They said she's the reason Toroko 
 was kidnapped.<NOD<ANP0311:0000:0002<END
@@ -265,9 +265,9 @@ I won't let that happen!<NOD<CLO
 
 
 #0500
-<KEY<MSG<TUR            Up: Yamashita Farm
-    Left: Reservoir   Right: Cemetery
-           Down: Arthur's House<NOD
+<KEY<MSG<TUR          Вверх: Ферма Yamashita 
+Ліворуч: Резервуар Праворуч: Кладовище 
+           Вниз: Будинок Артура <NOD
 <END
 
 #0501
@@ -275,17 +275,17 @@ I won't let that happen!<NOD<CLO
                   Yamashita Farm<NOD<END
 #0502
 <KEY<MSG<TUR
-                 Reservoir<NOD<END
+                Резервуар <NOD<END
 #0503
 <KEY<MSG<TUR
                    Mimiga Cemetery
-     Currently closed due to hazards.<NOD<END
+   Закрито через небезпеку зараження.<NOD<END
 #0504
 <KEY<MSG<TUR
-              Arthur's House<NOD<END
+              Будинок Артура <NOD<END
 #0505
 <KEY<MSG<TUR
-                     Assembly Hall<NOD<END
+                 Зала для зборів<NOD<END
 
 
 #0600
@@ -316,7 +316,7 @@ with the teleporter inside
 Arthur's house.<NOD<END
 #0602
 <KEY<MSG<FAC0001
-Did you find my brother?<NOD<END
+Чи не знайшов ти мого брата?<NOD<END
 
 #0610
 <FLJ0224:0611

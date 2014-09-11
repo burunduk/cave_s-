@@ -20,7 +20,7 @@
 
 #0120
 <PRI<FLJ1105:0122<MSG
-What's the password?<NOD<FLJ1024:0121<END
+Який пароль?<NOD<FLJ1024:0121<END
 #0121
 <MSG
 "yrotS evaC".<NOD<CLO
@@ -268,13 +268,13 @@ Well, that's not very exciting.<NOD<END
 <FLJ1045:0324
 <ITJ0024:0321
 <FL+1041<MSG<FAC0025
-Who...<NOD are you?<NOD<ITJ0034:0322<END
+Хто...<NOD ти такий?<NOD<ITJ0034:0322<END
 #0321
 <PRI<MSG<FAC0025
 Oow...<NOD
 You're cute...<NOD<CLR
 Don't go too far.<NOD
-Be careful with bad robots...<NOD<ITJ0034:0322<END
+Будь обережним із поганими роботами...<NOD<ITJ0034:0322<END
 
 #0322
 <FAC0000<MSG<GIT1034
@@ -346,8 +346,8 @@ Please<GIT1039 keep this...<NOD<CLR<FAC0000
 
 #0325
 <PRI<MSG<FAC0019
-I'm fine now.
-Thanks for asking!<NOD<END
+Зі мною все гаразд.
+Дякую що спитав!<NOD<END
 
 #0350
 <PRI<MSG
@@ -432,10 +432,10 @@ It has stopped.<NOD<FLJ1029:0416<END
 It's been a while.<NOD
 WOOF!<NOD<CLR
 I've been hired as a courier...<NOD
-This is for you.<NOD<CLR<SOU0022<CMU0016<GIT1006
+Це для тебе.<NOD<CLR<SOU0022<CMU0016<GIT1006
 Отримано капсулу здоров'я.<WAI0160<NOD<RMU<ML+0005
 Запас здоров'я збільшено на 5.<NOD<GIT0000<ITJ0015:0451<CLR
-Oh, and this, too...<NOD<CLR
+О, і це також...<NOD<CLR
 <CMU0010<GIT1015<IT+0015<GIT1015Obtained a Life Pot.<WAI0160<NOD<GIT0000<RMU<EVE0451
 <END
 #0451

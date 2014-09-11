@@ -55,10 +55,10 @@ Date Fuyuhiko<NOD<END
 Quote<NOD<END
 #0221
 <KEY<MSG<TUR
-Toroko<NOD<END
+Тороко<NOD<END
 #0222
 <KEY<MSG<TUR
-King<NOD<END
+Кінґ<NOD<END
 #0223
 <KEY<MSG<TUR
 Curly Brace<NOD<END

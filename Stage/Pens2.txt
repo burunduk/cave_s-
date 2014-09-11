@@ -15,43 +15,42 @@
 #0700
 <KEY<FL-0440<FL-0443<CMU0021<FAI0004
 <MSG
-Connecting to network.<WAI0050
+Підключення до мережі.<WAI0050
 <MSG
-Logged on.<WAI0050
+Вхід до системи.<WAI0050
 <MSG
-Starting IM chat.<WAI0100<CLR
+Розпочато чат.<WAI0100<CLR
 <MSG<FAC0001
-Sue: Kazuma<NOD
-Sue: are you there?<NOD
-Sue: you okay?<NOD<FAO0004<TRA0018:0700:0002:0000
+Сью: Казума <NOD
+Сью: ти тут?<NOD
+Сью: з тобою все гаразд?<NOD<FAO0004<TRA0018:0700:0002:0000
 #0701
 <KEY<FAI0004<MSG<FAC0001
-Sue: Yeah, it's me<NOD
-Sue: Sue Sakamoto, your sis<NOD<CLR
-Sue: so you were able to 
+Сью: Так, це я <NOD
+Сью: Сью Sakamoto, твоя сестра.<NOD<CLR
+Сью: so you were able to 
 escape too?<NOD
-Sue: where are you at now?<NOD
-Sue: I found the dragon eggs<NOD
-Sue: is mom with you?<NOD<FAO0004<TRA0018:0701:0002:0000
+Сью: where are you at now?<NOD
+Сью: I found the dragon eggs<NOD
+Сью: is mom with you?<NOD<FAO0004<TRA0018:0701:0002:0000
 #0702
 <KEY<FAI0004<MSG<FAC0001
-Sue: I found one that's almost
+Сью: I found one that's almost
 ready to hatch<NOD
-Sue: but it's locked up with
+Сью: but it's locked up with
 a password<NOD
-Sue: can we do something 
+Сью: can we do something 
 about that?<NOD<FAC0000<CLR<MSG
-Retrieving information for "Kazuma".<WAI0150<CLR<TUR
-Complete.<NOD<CLR
-Location: Bushlands Structure D<NOD
-Currently searching for functional
-teleporters.<NOD<CLR
-Teleporter: Preparing connection with
+Отримання інформації від "Казума".<WAI0150<CLR<TUR
+Завершено.<NOD<CLR
+Розташування: Bushlands Structure D<NOD
+Шукаю фінкціонуючі телепорти.<NOD<CLR
+Телепорт: Підготовка з'єднання з 
 Bushlands...<NOD<CLR
 <MSG<FAC0001
-Sue: anyhow, I'm on my way 
+Сью: anyhow, I'm on my way 
 to go help you.<NOD
-Sue: just stay right there<NOD<FAO0004<TRA0018:0702:0002:0000
+Сью: just stay right there<NOD<FAO0004<TRA0018:0702:0002:0000
 #0703
 <KEY<CNP0700:0042:0000<FAI0004<MSG
 .....<NOD<CLR

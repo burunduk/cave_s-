@@ -53,7 +53,7 @@ Do you want to open the door?<YNJ0000<CLO
 
 #0403
 <KEY<MSG
-The door is open.<NOD<END
+Двері відкрито.<NOD<END
 
 #0410
 

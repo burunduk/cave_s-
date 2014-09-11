@@ -48,8 +48,8 @@ I knew you could do it!<NOD<CLR
 .....<NOD
 <CLR
 Um...<NOD
-My name is Kazuma Sakamoto.<NOD
-But please call me Kazuma.<NOD<CLR
+Мене звати Казума Sakamoto.<NOD
+Але називай мене просто, Казума.<NOD<CLR
 Luckily, I was able to escape
 from the Doctor, but then...<NOD
 I was teleported here.<NOD
@@ -70,7 +70,7 @@ Take me to the village!<NOD<SOU0043<ANP0102:0001:0000<WAI0030<ANP0210:0000:0002<
 ?!<NOD<CLO<FAC0000
 <CNP0303:0113:0000<ANP0303:0030:0000<WAI0100
 <FAC0000<MSG<ANP0102:0000:0000<FAC0018
-Is that you, Kazuma?!<NOD<CLR<FAC0010
+Is that you, Казума?!<NOD<CLR<FAC0010
 Professor Booster!!<NOD
 So you're safe!<NOD<CLR<FAC0018
 Yes, somehow.<NOD<CLO
@@ -84,12 +84,12 @@ Sue's in Mimiga Village.<NOD
 This boy will get us there.<NOD<CLO
 <WAI0020<ANP0210:0000:0000<WAI0010
 <FAC0000<MSG<FAC0018
-Oh...<NOD<CLO
+Ох...<NOD<CLO
 <ANP0303:0003:0000<WAI0080<ANP0303:0000:0000
 <FAC0000<MSG<FAC0010
-Do you know him?<NOD<CLR<FAC0018
+Ти знайомий з ним?<NOD<CLR<FAC0018
 .....<NOD<CLR
-No...<NOD<CLR
+Ні...<NOD<CLR
 <ANP0303:0000:0002Um, actually, we just met.<NOD<CLR
 Anyway, let's hurry and get
 to Sue's location.<NOD
@@ -101,7 +101,7 @@ But, Sue is a...<NOD<CLR
 Will the red flowers work on
 Sue as well?<NOD
 Just like the others?<NOD<CLR<FAC0018
-Kazuma.<NOD<CLR
+Казума.<NOD<CLR
 The Doctor has commenced
 snatching the Mimiga.<NOD
 Do you understand what 
@@ -152,77 +152,77 @@ possible.<NOD<END
 #0500
 <KEY<CMU0021<FAI0004
 <MSG
-Connecting to network.<WAI0050
+Підключення до мережі.<WAI0050
 <MSG
-Logged on.<WAI0050
+Вхід до системи.<WAI0050
 <MSG
-Starting IM chat.<WAI0100<CLR
+Початок чату.<WAI0100<CLR
 <MSG
-Kazuma: Sue?<NOD
-Kazuma: are you there?<NOD
-Kazuma: it's me<NOD
-Kazuma: it's Kazuma!<NOD
-Kazuma: I was somehow able to escape,
+Казума: Сью?<NOD
+Казума: ти тут?<NOD
+Казума: це я <NOD
+Казума: Казума!<NOD
+Казума: I was somehow able to escape,
 but I got lost<NOD
-Kazuma: I'm in a shelter without
+Казума: I'm in a shelter without
 anything inside<NOD
-Kazuma: if you're reading this,
-please answer<NOD<CLR
-Kazuma: ...please?<NOD
+Казума: Якщо ти читаєш це, 
+будь-ласка, відпишись.<NOD<CLR
+Казума: ...агов?<NOD
 <FAO0004<SK+0005<TRA0013:0091:0010:0008
 
 
 #0501
 <KEY<HMC<CMU0021<FAI0004
 <MSG
-Searching for "Sue".<WAI0150<CLR<MSG
-One "Sue" found.<WAI0150<CLR<MSG
-Kazuma: SUUUUE!<NOD
-Kazuma: answer me<NOD
-Kazuma: they're looking for you
-Kazuma: are you asleep or what?<NOD
-Kazuma: your brother is so lonely...<NOD<FAO0004<SMC<CLO
+Пошук користувача "Сью".<WAI0150<CLR<MSG
+Один запис "Сью" знайдено.<WAI0150<CLR<MSG
+Казума: СЬЮЮЮЮ!<NOD
+Казума: відпиши мені <NOD
+Казума: they're looking for you
+Казума: are you asleep or what?<NOD
+Казума: your brother is so lonely...<NOD<FAO0004<SMC<CLO
 <TRA0090:0095:0014:0009
 
 
 #0502
 <KEY<HMC<CMU0021<FAI0004
 <MSG
-Kazuma: c'mon Sue!!!<NOD
-Kazuma: type something will you?<NOD
-Kazuma: starving over here...
-Kazuma: I'm so hungry that, that...
-Kazuma: I even ate a cockroach<NOD
-Kazuma: LOL just kidding!!!<NOD<CLR
-Kazuma: but, just so you know, if I get
+Казума: c'mon Sue!!!<NOD
+Казума: type something will you?<NOD
+Казума: starving over here...
+Казума: I'm so hungry that, that...
+Казума: I even ate a cockroach<NOD
+Казума: LOL just kidding!!!<NOD<CLR
+Казума: but, just so you know, if I get
 to that point I'll do it<NOD<FAO0004<SMC<TRA0011:0302:0008:0006
 
 
 #0700
 <KEY<FAI0004<MSG
-Kazuma: Sue?<NOD
-Kazuma: is that really you, Sue?<NOD<FAO0004<TRA0024:0701:0002:0000
+Казума: Сью?<NOD
+Казума: це дійсно ти, Сью?<NOD<FAO0004<TRA0024:0701:0002:0000
 #0701
 <KEY<FAI0004<MSG
-Kazuma: the door is jammed and I can't
-get out of here<NOD
-Kazuma: I'm still in a shelter-looking
+Казума: двері заклинило, і я не можу 
+вибратися з відси.<NOD
+Казума: I'm still in a shelter-looking
 sorta room<NOD
-Kazuma: by the way, the code that you
+Казума: by the way, the code that you
 need to teleport is "Bushlands"<NOD
-Kazuma: try searching from your end<NOD<CLR
-Kazuma: and no, mom isn't with me
-Kazuma: I'm afraid she still might be
+Казума: try searching from your end<NOD<CLR
+Казума: and no, mom isn't with me
+Казума: I'm afraid she still might be
 with the Doctor<NOD<CLR
-Kazuma: are any of the flying dragon
+Казума: are any of the flying dragon
 eggs about ready to hatch yet?<NOD<FAO0004<TRA0024:0702:0002:0000
 
 #0702
 <KEY<FAI0004<MSG
-Kazuma: roger that!<NOD
-Kazuma: and do me a favor, bring some
+Казума: roger that!<NOD
+Казума: and do me a favor, bring some
 food back on your wa--<NOD<CLR
 <MSG
-User "Sue" has disconnected.<NOD<CLR
-Ah...<NOD<FAO0004<TRA0024:0703:0002:0000
+Користувач "Сью" від'єднався.<NOD<CLR
+Єєх...<NOD<FAO0004<TRA0024:0703:0002:0000
 

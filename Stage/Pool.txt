@@ -31,10 +31,10 @@
 
 #0200
 <KEY<MSG
-Sue?<NOD<CLR
-Yeah, Sue!<NOD<CLR
-That cute girl who's always hiding
-inside Arthur's house?<NOD
+—ью?<NOD<CLR
+јга, —ью!<NOD<CLR
+÷е та д≥вчина, що переховувалась 
+в середин≥ будинку јртура?<NOD
 She recently came to Mimiga Village.<NOD
 She fell into the reservoir there.<NOD
 I don't think she's very fond of us.<NOD
@@ -48,7 +48,7 @@ same as the rest of us...<NOD<END
 
 <DNP0300
 <MSG
-Something shines brightly...<NOD<CLR<CMU0010<GIT1004<IT+0004
+ўось €скраво виблискуЇ...<NOD<CLR<CMU0010<GIT1004<IT+0004
 ќтримано ср≥бний медальйон.<WAI0160<NOD<CNP0402:0060:0000<CLO
 <RMU<END
 
@@ -57,7 +57,7 @@ Something shines brightly...<NOD<CLR<CMU0010<GIT1004<IT+0004
 <FLJ0370:0401<END
 #0401
 <KEY<MYD0002<DNP0400<MSG<FAC0006
-Waaaaaa!<NOD<CLO
+јаааааа!<NOD<CLO
 <ANP0402:0006:0002<WAI0078<DNP0402<FL+0371<END
 #0402
 

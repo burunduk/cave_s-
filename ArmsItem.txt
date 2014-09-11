@@ -3,13 +3,13 @@
 
 #1000
 <MSG<TUR
-No weapon.<WAI9999<END
+Немає зброї.<WAI9999<END
 #1001
 <MSG<TURSNAKE
 It shoots through walls!
 Built by Chaba in the Labyrinth Shop.<WAI9999<END
 #1002
-<MSG<TURPOLAR STAR
+<MSG<TURПОЛЯРНА ЗІРКА 
 Your very first gun.
 It carries the mark of the Northern Star.
 <WAI9999<END
@@ -18,11 +18,11 @@ It carries the mark of the Northern Star.
 Its projectiles bounce on the ground.
 Quite useful on slopes.<WAI9999<END
 #1004
-<MSG<TURMACHINE GUN
+<MSG<TURКУЛЕМЕТ 
 A very high-speed firearm.
 Its ammo recharges gradually.<WAI9999<END
 #1005
-<MSG<TURMISSILE LAUNCHER
+<MSG<TURРАКЕТНИЦЯ 
 Long range arm dealing BIG damage.
 The downside: limited ammunition.<WAI9999<END
 #1007
@@ -30,14 +30,13 @@ The downside: limited ammunition.<WAI9999<END
 Found in the Assembly Hall fireplace.
 Use it as you like.<WAI9999<END
 #1009
-<MSG<TURBLADE
+<MSG<TURМЕЧ 
 A one-hit projectile.
-It contains the spirit of King.<WAI9999<END
+Він містить дух короля.<WAI9999<END
 #1010
 <MSG<TURSUPER MISSILE
-A serious missile upgrade.
-Fast and deadly.<WAI9999<END
-
+Серьозне оновлення ракет.
+Швидші і небезпечніші.<WAI9999<END
 #1012
 <MSG<TURNEMESIS
 Lightning of the Goddess.
@@ -90,7 +89,7 @@ This one dreams the days away
 with long, long naps.<WAI9999<END
 #5000
 <MSG<TUR
-No item.<WAI9999<END
+Немає предметів.<WAI9999<END
 #5001
 <MSG<TUR
 Ключ Артура <WAI9999<END
@@ -108,16 +107,16 @@ No item.<WAI9999<END
 Beast Fang<WAI9999<END
 #5006
 <MSG<TUR
-Life Capsule<WAI9999<END
+Капсула здоров'я <WAI9999<END
 #5007
 <MSG<TUR
-ID Card<WAI9999<END
+Картка доступу <WAI9999<END
 #5008
 <MSG<TUR
 Jellyfish Jelly<WAI9999<END
 #5009
 <MSG<TUR
-Rusted Key<WAI9999<END
+Іржавий ключ <WAI9999<END
 #5010
 <MSG<TUR
 Gum Key<WAI9999<END
@@ -126,10 +125,10 @@ Gum Key<WAI9999<END
 Gum Base<WAI9999<END
 #5012
 <MSG<TUR
-Charcoal<WAI9999<END
+Вугілля <WAI9999<END
 #5013
 <MSG<TUR
-Bomb<WAI9999<END
+Вибухівка <WAI9999<END
 #5014
 <FLJ3000:1100
 <FLJ3001:1101
@@ -137,7 +136,7 @@ Bomb<WAI9999<END
 <FLJ3003:1103
 <FLJ3004:1104
 <MSG<TUR
-Dog<WAI9999<END
+Пес <WAI9999<END
 #5015
 <MSG<TUR
 Life Pot<WAI9999<END
@@ -149,7 +148,7 @@ Cure-All<WAI9999<END
 Clinic Key<WAI9999<END
 #5018
 <MSG<TUR
-Booster v0.8<WAI9999<END
+Прискорювач v0.8<WAI9999<END
 #5019
 <MSG<TUR
 Arms Barrier<WAI9999<END
@@ -164,7 +163,7 @@ Curly's Air Tank<WAI9999<END
 290 Counter<WAI9999<END
 #5023
 <MSG<TUR
-Booster v2.0<WAI9999<END
+Прискорювач v2.0<WAI9999<END
 #5024
 <MSG<TUR
 Mimiga Mask<WAI9999<END
@@ -173,16 +172,16 @@ Mimiga Mask<WAI9999<END
 Teleporter Room Key<WAI9999<END
 #5026
 <MSG<TUR
-Sue's Letter<WAI9999<END
+Лист Сью <WAI9999<END
 #5027
 <MSG<TUR
 Controller<WAI9999<END
 #5028
 <MSG<TUR
-Broken Sprinkler<WAI9999<END
+Зламаний розпилювач <WAI9999<END
 #5029
 <MSG<TUR
-Sprinkler<WAI9999<END
+Розпилювач <WAI9999<END
 #5030
 <MSG<TUR
 Tow Rope<WAI9999<END
@@ -216,7 +215,7 @@ Iron Bond<WAI9999<END
 
 #6000
 <MSG<TUR
-No item.<WAI9999<END
+Немає предметів.<WAI9999<END
 #6001
 <MSG<TUR
 One of two keys to Arthur's house.
@@ -226,7 +225,7 @@ It was found near Arthur's gravestone.<WAI9999<END
 No data for this floor.<NOD<CLR<END
 #6003
 <MSG<TUR
-Santa's house key.<WAI9999<END
+Ключ від будинку Санти.<WAI9999<END
 #6004
 <MSG<TUR
 A silver locket in the shape of a fish.
@@ -247,19 +246,19 @@ An ID Card found inside Egg No. 06.<WAI9999<END
 A fluid that can extinguish fires.<WAI9999<END
 #6009
 <MSG<TUR
-A rusty key.<WAI9999<END
+Проржавівший ключ.<WAI9999<END
 #6010
 <MSG<TUR
 It has the word, "Gum".<WAI9999<END
 #6011
 <MSG<TUR
-A piece of gum.<WAI9999<END
+Шматок пластиду.<WAI9999<END
 #6012
 <MSG<TUR
-Removed from a fireplace.<WAI9999<END
+Вилучено з вогнища.<WAI9999<END
 #6013
 <MSG<TUR
-A bomb for blowing up doors.<WAI9999<END
+Вибухівка, для підривання дверей.<WAI9999<END
 #6014
 <FLJ3000:1200
 <FLJ3001:1201
@@ -270,9 +269,9 @@ A bomb for blowing up doors.<WAI9999<END
 Jenka's pet dog.<WAI9999<END
 #6015
 <KEY<MSG
-This will restore life, but just
-one time. Use it now?<YNJ0000<LI+1000<SOU0020<IT-0015<MSG
-Life restored.<FRE<WAI9999<END
+Це відновить твоє здоров'я, але 
+тільки раз. Використати зараз?<YNJ0000<LI+1000<SOU0020<IT-0015<MSG
+Здоров'я відновлено.<FRE<WAI9999<END
 #6016
 <MSG<TUR
 A medicine that cures anything?<WAI9999<END
@@ -284,8 +283,8 @@ It reads, "Labyrinth Clinic".<WAI9999<END
 <KEY<MSG
 Push the jump button while airborne
 to boost for a limited time.<NOD<CLR
-Equip it?<YNJ0000<EQ+0001<FL+0742<EQ-0032<FL-0743<MSG
-Booster equipped.<NOD<WAI0003<FRE<EVE5018
+Застосувати його?<YNJ0000<EQ+0001<FL+0742<EQ-0032<FL-0743<MSG
+Прискорювач застосовано.<NOD<WAI0003<FRE<EVE5018
 #6019
 <MSG<TUR
 Weapon energy lost from sustaining
@@ -307,8 +306,8 @@ It has no buttons.<WAI9999<END
 <KEY<MSG
 Press the jump button while airborne
 and boost in one of four directions.<NOD<CLR
-Do you want to equip it?<YNJ0000<EQ+0032<FL+0743<EQ-0001<FL-0742<MSG
-Equipped Booster v2.0.<NOD<WAI0003<FRE<EVE5023
+Бажаєш застосувати його?<YNJ0000<EQ+0032<FL+0743<EQ-0001<FL-0742<MSG
+Прискорювач v2.0 застосовано.<NOD<WAI0003<FRE<EVE5023
 #6024
 <MSG<TUR
 A mask made by Momorin Sakamoto.
@@ -429,16 +428,16 @@ You'll see each other again...<WAI9999<END
 
 #7018
 <KEY<MSG
-Unequip it?<YNJ0000<EQ-0001<FL-0742<MSG
-Unequipped Booster.<NOD<WAI0003<FRE<EVE5018
+Зняти його?<YNJ0000<EQ-0001<FL-0742<MSG
+Прискорювач знято.<NOD<WAI0003<FRE<EVE5018
 #7023
 <KEY<MSG
-Unequip it?<YNJ0000<EQ-0032<FL-0743<MSG
-Unequipped Booster v2.0.<NOD<WAI0003<FRE<EVE5023
+Зняти його?<YNJ0000<EQ-0032<FL-0743<MSG
+Прискорювач v2.0 знято.<NOD<WAI0003<FRE<EVE5023
 
 #7038
 <KEY<MSG
-Unequip it?<YNJ0000<EQ-0128<FL-0722<MSG
+Зняти його?<YNJ0000<EQ-0128<FL-0722<MSG
 Unequipped the Whimsical Star.<NOD<WAI0003<FRE<EVE5038
 
 >>>

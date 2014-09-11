@@ -21,9 +21,9 @@
 -0063
 [  MIMIGA VILLAGE]0000-0064
 [ Nice and Courageous]0000-0032
-[ Toroko]0013-0064
+[ Тороко]0013-0064
 [ The Leader]0000-0032
-[ King]0014-0064
+[ Кінґ]0014-0064
 [ Number-Two]0000-0032
 [ Jack]0015-0064
 [ Eats, eats, eats]0000-0032

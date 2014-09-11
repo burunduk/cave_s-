@@ -33,7 +33,7 @@ Teleport to Arthur's house?<FL-0227<YNJ0000<CLO
 
 #0101
 <PRI<FL-0227<FLJ0212:0102<MSG
-It's locked.<NOD<END
+Заблоковано.<NOD<END
 #0102
 <PRI<SOU0011<DNP0101<FAO0004<TRA0007:0094:0015:0008
 #0103
@@ -44,7 +44,7 @@ It's locked.<NOD<END
 <FLJ0214:0106
 <ITJ0009:0105
 <MSG
-It's locked.<NOD<END
+Заблоковано.<NOD<END
 #0105
 <SOU0022<MSG<GIT1009
 Used the Rusty Key.<NOD<CLO
@@ -83,7 +83,7 @@ Used the Gum Key.<NOD<CLO
 
 #0121
 <PRI<MSG<TUR
-               Santa's House<NOD<END
+               Будинок Санти <NOD<END
 #0123
 <PRI<MSG<TUR
               Power Supply Room<NOD<END
@@ -96,7 +96,7 @@ Used the Gum Key.<NOD<CLO
 #0200
 <PRI<DNP0200<FL+0210
 <CMU0010<GIT1003<IT+0003<MSG
-Obtained Santa's Key.<WAI0160<NOD<CLO
+Отримано ключ Санти.<WAI0160<NOD<CLO
 <GIT0000<RMU<END
 
 #0201
@@ -174,8 +174,8 @@ Oh, I see.<NOD
 What a shame...<NOD<END
 #0232
 <PRI<MSG
-Please.<NOD
-Open the door.<NOD<END
+Будь-ласка.<NOD
+Відкрий двері.<NOD<END
 #0233
 <PRI<MSG
 Huh, what do you mean?<NOD
@@ -195,16 +195,16 @@ There has to be a better way...<NOD<END
 
 #0236
 <PRI<MSG
-What? 
+Що? 
 Use a BOMB?? 
 On that door???<NOD<CLR
 I guess that's a possibility...<NOD
 So, you're looking for the materials?<NOD<CLR
 .....<NOD<CLR
 Did you say gum base?<NOD
-Wait a sec--<NOD<CLO<WAI0100
+Зачекай секунду--<NOD<CLO<WAI0100
 <MSG
-Take this.<NOD<GIT1010<IT+0010<FL+0221<CLR
+Тримай це.<NOD<GIT1010<IT+0010<FL+0221<CLR
 <CMU0010Obtained the Gum Key.<WAI0160<NOD<RMU<CLR
 It was hanging on the wall.
 The word "Gum" was written on it.<NOD
@@ -256,8 +256,8 @@ Is it some kind of bike?<NOD<END
 <FLJ0211:0501
 <FL+0211
 <MSG
-Hello.<NOD<CLR
-My name is Santa.<NOD<CLR
+Привіт.<NOD<CLR
+Мене звати Санта.<NOD<CLR
 I went to get some water and was
 attacked by those monsters.<NOD
 So I ran back home, but I dropped
@@ -275,15 +275,15 @@ What should I do???<NOD<END
 #0503
 <KEY<FL+0212<MM0<MYD0000<WAI0030<PRI
 <MSG
-Oh!<NOD<CLR
-That's the key to my house!<NOD<IT-0003<GIT1003<CLR
-Returned Santa's Key.<NOD<GIT0000<CLR
-Thank you!<NOD<CLO
+Ох!<NOD<CLR
+Це ж ключ від мого будинку!<NOD<IT-0003<GIT1003<CLR
+(Повернули ключ Санти).<NOD<GIT0000<CLR
+Дякую тобі!<NOD<CLO
 <KEY<ANP0500:0003:0000<WAI0176<ANP0500:0000:0002
 <SOU0011<CNP0101:0000:0000<WAI0010
 <PRI<MSG
-Please come over.<NOD
-I have something nice for you.<NOD<CLO<KEY
+Прошу, зайди пізніше.<NOD
+Я маю дещо цікаве для тебе.<NOD<CLO<KEY
 <ANP0500:0005:0002<WAI0010<DNP0500
 <SOU0011<CNP0101:0018:0000<DNP0502<SOU0023<END
 
@@ -294,8 +294,8 @@ I'm counting on you.
 Lead us to Mimiga Village!<NOD<CLO<FAC0000
 <ANP0452:0000:0000<WAI0010
 <MSG<FAC0018
-Kazuma.<NOD<WAI0010<ANP0451:0000:0002<CLR<FAC0010
-Yes?<NOD<CLO<FAC0000
+Казума.<NOD<WAI0010<ANP0451:0000:0002<CLR<FAC0010
+Так?<NOD<CLO<FAC0000
 <FAC0000<WAI0010<ANP0452:0000:0002<FON0450:0016<WAI0050
 <MSG<FAC0018
 Does that thing work?<NOD<CLO<FAC0000

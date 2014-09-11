@@ -69,7 +69,7 @@ He's blundered yet another time...<CMU0000<NOD<CLO
 <CNP0206:0067:0000<WAI0010<WAI0090
 <ANP0206:0013:0000
 <MS3<FAC0015
-Hm...<NOD<CLR
+Хм...<NOD<CLR
 You have a lot of spirit.<NOD<CLR
 However...
 to come all the way here,
@@ -119,7 +119,7 @@ The ITJ above and event 0211 are for
 <FLJ0620:0233
 <FLJ0278:0232
 <PRI<MSG
-It's locked...<NOD<END
+Заблоковано...<NOD<END
 
 #0231
 <WAI0050
@@ -163,21 +163,21 @@ Look for markings on the walls.<NOD<END
 
 #0401
 <PRI<MSG
-ZZZzzz...<NOD<ITJ0014:0410<CLR
-Do you want to bring him along?<YNJ0000<CLR
-<CNP0401:0136:0000<FL+0275<GIT1014<IT+0014Picked up the Dog.<NOD<FL+0274<CLO
+Хр-рр-р...<NOD<ITJ0014:0410<CLR
+Бажаєте взяти його з собою?<YNJ0000<CLR
+<CNP0401:0136:0000<FL+0275<GIT1014<IT+0014Взято собаку.<NOD<FL+0274<CLO
 <FL-3000<FL-3001<FL-3002<FL-3003<FL+3004
 <END
 #0402
 <PRI<MSG<SOU0105
 Гав!<NOD<ITJ0014:0410<CLR
-Do you want to bring him along?<YNJ0000<CLR
-<CNP0402:0136:0000<FL+0276<GIT1014<IT+0014Picked up the Dog.<NOD<FL+0274<CLO
+Бажаєте взяти його з собою?<YNJ0000<CLR
+<CNP0402:0136:0000<FL+0276<GIT1014<IT+0014Взято собаку.<NOD<FL+0274<CLO
 <FL-3000<FL-3001<FL-3002<FL+3003<FL-3004
 <END
 #0410
 <PRI<MSG
-You can't take two with you.<NOD<END
+Ти не можеш забрати з собою двох.<NOD<END
 #0411
 <DNP0411<END
 #0412
@@ -185,12 +185,12 @@ You can't take two with you.<NOD<END
 <MSG
 Відкрито скриньку зі скарбами.<NOD<GIT1014<CNP0412:0130:0000<CLR
 Тут... собака...<NOD<ITJ0014:0413<CLR
-<CNP0412:0136:0000<FL+0279<GIT1014<IT+0014<CMU0010Picked up the Dog.<WAI0160<NOD<RMU<CLO
+<CNP0412:0136:0000<FL+0279<GIT1014<IT+0014<CMU0010Взято собаку.<WAI0160<NOD<RMU<CLO
 <FL-3000<FL+3001<FL-3002<FL-3003<FL-3004
 <FL+0274<END
 #0413
 <PRI<MSG
-You can't take two with you.<NOD<CNP0412:0015:0000<END
+Ти не можеш забрати з собою двох.<NOD<CNP0412:0015:0000<END
 
 
 

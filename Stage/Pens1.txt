@@ -69,10 +69,10 @@ Connected to Sand Zone.<NOD<END
 <KEY<MSG
 Text is displayed on-screen...<NOD<CLR<TUR
 Teleport to Egg Corridor...
- - Kazuma<NOD<END
+ - Казума <NOD<END
 #0210
 <KEY<MSG
-Flowers???<NOD<END
+Квіти???<NOD<END
 
 #0300
 #0301
@@ -110,11 +110,11 @@ Oh, I hope Toroko isn't hurt...<NOD<END
 <CNP0621:0113:0000
 <ANP0621:0030:0000<WAI0100
 <MSG<FAC0018
-Ouch...<NOD<CLR<FAC0010
-Are you okay?<NOD<CLO<FAC0000
+Оуч...<NOD<CLR<FAC0010
+З тобою все гаразд?<NOD<CLO<FAC0000
 <WAI0030<ANP0621:0000:0002
 <MSG<FAC0018
-Yes...<NOD<CLR
+Так...<NOD<CLR
 But I really thought that we 
 weren't going to make it.<NOD<CLR<FAC0010
 .....<NOD<CLO<FAC0000
@@ -122,9 +122,9 @@ weren't going to make it.<NOD<CLR<FAC0010
 <ANP0102:0000:0002<SOU0011
 <CNP0625:0042:0000
 <MSG<FAC0001
-Kazuma!<NOD<ANP0622:0000:0002<CLR
+Казума!<NOD<ANP0622:0000:0002<CLR
 And Professor Booster!<NOD<CLR<FAC0018
-Oh!<NOD<CLO<FAC0000
+Ох!<NOD<CLO<FAC0000
 <ANP0621:0003:0002<WAI0080
 <ANP0621:0000:0002
 <MSG<FAC0018
@@ -280,9 +280,9 @@ responsibility, you think?<NOD<END
 
 #0650
 <KEY<MSG<FAC0018
-Take Sue and escape...
-from this island....<NOD
-Please...<NOD<END
+Бери Сью і тікай...
+з цього острова....<NOD
+Прошу...<NOD<END
 
 #0651
 <DNP0651<KEY<MYD0000
@@ -313,7 +313,7 @@ escape from the island.<NOD<CLO<FAC0000
 <ANP0650:0005:0002
 <IT+0023<FL+0744<FL+0162<GIT1023
 <MSG
-Obtained the Booster v2.0.<WAI0030<NOD<CLO<GIT0000
+Отримано прискорювач v2.0.<WAI0030<NOD<CLO<GIT0000
 <ANP0650:0000:0002
 <MSG<FAC0018
 Please honor my final request.<NOD<CLR
@@ -336,9 +336,9 @@ Take her and escape.<NOD<CLO
 
 #0660
 <KEY<FLJ1020:0661<MSG<FAC0018
-Take Sue with you and
-leave this island...<NOD
-Please...<NOD<END
+Забирай Сью із собою і 
+покиньте цей острів...<NOD
+Прошу...<NOD<END
 #0661
 <KEY<MSG<FAC0018
 I'm sorry. 

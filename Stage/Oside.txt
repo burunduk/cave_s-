@@ -23,7 +23,7 @@ No more...<NOD<END
 #0131
 <KEY<CMU0000<SOU0011<ANP0130:0000:0002
 <GIT1032<IT-0032<FL+1370<MSG
-I'm home!<NOD<CLO
+‗ המלא!<NOD<CLO
 <ACH0079
 <FAO0000<TRA0069:0090:0015:0008
 
@@ -75,7 +75,7 @@ safe confines of mountains...<WAI0200<CLR
 
 #0410
 <KEY<MSG
-Grrrrrr...<NOD<END
+Ãננננננ...<NOD<END
 #0420
 
 

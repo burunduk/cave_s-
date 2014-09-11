@@ -1,15 +1,15 @@
 Nothing
 Будинок Артура
 Egg Corridor
-Egg No.00
-Egg No.06
+Яйце No.00
+Яйце No.06
 Egg Observation Room
 Bushlands
 Будинок Санти
 Chako's House
 Лабіринт I
 Sand Zone
-Mimiga Village
+Поселення Міміґ
 Перша печера
 Початкова точка
 Shack
@@ -17,7 +17,7 @@ Shack
 Кладовище
 Yamashita Farm
 Shelter
-Assembly Hall
+Зала для зборів
 Точка збереження
 Side Room
 Cthulhu's Abode
@@ -50,7 +50,7 @@ Waterway
 Egg Corridor?
 Cthulhu's Abode?
 Egg Observation Room?
-Egg No. 00
+Яйце No. 00
 Outer Wall
 Side Room
 Storehouse
@@ -88,7 +88,7 @@ Statue Chamber
 Seal Chamber
 Corridor
 
-Hermit Gunsmith
+Відлюдний зброяр
 
 Seal Chamber
 

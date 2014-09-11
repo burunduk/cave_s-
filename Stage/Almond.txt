@@ -22,7 +22,7 @@
 
 #0101
 <KEY<MSG
-It won't open...<NOD<END
+Їх не відкрити...<NOD<END
 
 #0200
 <KEY
@@ -51,19 +51,19 @@ MALFUNCTIONING.<NOD<END
 MALFUNCTIONING.<NOD<END
 #0202
 <KEY<MSG
->_ LOWER LIFT?<YNJ0000<CLR<FL+0824
->_ LOWERING LIFT.<NOD<CLO<FON0257:0016
+>_ ОПУСТИТИ ПІДЙОМНИК?<YNJ0000<CLR<FL+0824
+>_ ПІДЙОМНИК ОПУСКАЄТЬСЯ.<NOD<CLO<FON0257:0016
 <WAI0050
 <ANP0257:0010:0003<WAI0192<ANP0257:0000:0000
 <WAI0050<FOM0016
 <MSG
->_ LIFT LOWERED.<NOD<END
+>_ ПІДЙОМНИК ОПУЩЕНО.<NOD<END
 #0203
 <KEY<MSG
->_ LIFT IS LOWERED.<NOD<END
+>_ ПІДЙОМНИК ВЖЕ ОПУЩЕНО.<NOD<END
 #0204
 <KEY<MSG
->_ ERROR.<NOD<END
+>_ ПОМИЛКА.<NOD<END
 
 #0210
 <KEY<FLJ0830:0212<FLJ0825:0211<MSG
@@ -77,7 +77,7 @@ MALFUNCTIONING.<NOD<END
 >_ BLAST DOOR OPENED.<NOD<END
 #0212
 <KEY<MSG
->_ ERROR.<NOD<END
+>_ ПОМИЛКА.<NOD<END
 
 #0240
 <PRI<FLJ0828:0241<MSG
@@ -124,12 +124,12 @@ on something...<NOD<END
 Blast door after blast door.<NOD
 There's something behind all
 this crazy security.<NOD
-Don't you think so, too?<NOD<END
+Ти так не вважаєш?<NOD<END
 
 
 #0304
 <PRI<MSG
-I...<NOD<END
+Я...<NOD<END
 
 #0305
 <PRI<MSG
@@ -137,7 +137,7 @@ Out again???<NOD<END
 
 #0306
 <PRI<MSG
-No reply...<NOD<ITJ0030:0307<END
+Не відповідає...<NOD<ITJ0030:0307<END
 
 #0307
 <PRI<MSG
@@ -152,8 +152,8 @@ Wrapped the Tow Rope around Curly.<NOD<END
 #0340
 <KEY<DNP0340<WAI0010<SOU0022<WAI0010
 <MSG
-You hear the sound of something 
-breaking free...<NOD<CLO<WAI0050<ANP0253:0010:0001
+(Ви почули звук, наче щось 
+вирвалося на волю...)<NOD<CLO<WAI0050<ANP0253:0010:0001
 <WAI0048<DNP0253
 <ANP0301:0003:0002<WAI0128
 <ANP0301:0001:0002
@@ -198,23 +198,23 @@ He's been nearly destroyed.<NOD<CLO<FAC0000
 <MSG<FAC0025
 There are others like this one
 all over the place.<NOD
-Who did this?<NOD<CLR
-It couldn't have been a Mimiga.
-How could this happen?<NOD<CLO
+Хто зробив це?<NOD<CLR
+Я не думаю, що це Міміґи.
+Що ж тут трапилось?<NOD<CLO
 <CMU0000<ANP0255:0020:0000<WAI0020<FOM0016
 <ANP0450:0001:0002<MSG
 <FAC0025!!!<WAI0050<CLO<FAC0000
 <WAI0030<ANP0450:0001:0002<MSG
-<FAC0019It's still functional!<NOD<CLR
-<FAC0024...ReBOot..ing...<NOD<CLR
-TEAM 9 TERMINATED.<NOD
+<FAC0019Він ще функціонує!<NOD<CLR
+<FAC0024...ПеРЕза..ванТаЖен..ня.<NOD<CLR
+КОМАНДА 9 ЗНИЩЕНА.<NOD
 UNABLE TO ELIMINATE 
 THE TARGET.<NOD<CLR
 DESTRUCTION OF TARGET IS
 IMPOSSIBLE WITH CURRENTLY 
 EQUIPPED FIREPOWER.<NOD<CLR
-RETREAT!<NOD
-RETREAT!!<NOD<CLO
+ВІДСТУПАЄМО!<NOD
+ВІДСТУПАЄМО!!<NOD<CLO
 <FON0258:0016<FL+0828<FL-0824<MNP0257:0007:0018:0000
 <CMP0040:0015:0030<CMP0040:0016:0030
 <CNP0258:0184:0000
@@ -245,9 +245,9 @@ You did it!?!<WAI0100<NOD<CLO<FAC0000
 <ACH0038
 <FON0401:0016<CNP0400:0067:0002<WAI0050
 <MSG<FAC0026
-Aah!<NOD<CLR
-How!?!<NOD<CLR<FAC0019
-Hey!<NOD<CLR
+Ой-ой!<NOD<CLR
+Як!?!<NOD<CLR<FAC0019
+Агов!<NOD<CLR
 That's the same witch who 
 zapped me!<NOD<CLR
 Are those children safe!?!<NOD<CLR<FAC0016
@@ -256,8 +256,8 @@ Don't act like you're a mother!<NOD
 Do you even know what this
 thing is!?!<NOD<CLR
 <FAC0019Huh?<NOD<CLR<FAC0016
-This is the reason why 
-I HATE ROBOTS!!!<NOD<CLR
+Це одна з причин чому 
+Я НЕНАВИДЖУ РОБОТІВ!!!<NOD<CLR
 This is the heart of the island!<NOD<CLR
 The island will fall if THIS
 stops!!<NOD<CLR
@@ -267,7 +267,7 @@ You stupid fool!!<NOD<CLO<FAC0000
 <CNP0402:0139:0000<ANP0402:0040:0000<WAI0100
 <MSG<FAC0021
 MISERY!!<NOD<CLR
-What are you doing?!?
+Що ти робиш?!?
 Move the Core to the lab NOW!<NOD<CLR
 While you still have time!<NOD<CLO<FAC0000
 <ANP0400:0013:0002<WAI0050
