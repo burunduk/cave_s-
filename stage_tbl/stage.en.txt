@@ -1,0 +1,97 @@
+Оригінальні назви кімнат.
+Максимальна довжина рядка: 31
+room N00: Nothing
+room N01: Arthur's House
+room N02: Egg Corridor
+room N03: Egg No.00
+room N04: Egg No.06
+room N05: Egg Observation Room
+room N06: Bushlands
+room N07: Santa's House
+room N08: Chako's House
+room N09: Labyrinth I
+room N10: Sand Zone
+room N11: Mimiga Village
+room N12: First Cave
+room N13: Start Point
+room N14: Shack
+room N15: Reservoir
+room N16: Cemetery
+room N17: Yamashita Farm
+room N18: Shelter
+room N19: Assembly Hall
+room N20: Save Point
+room N21: Side Room
+room N22: Cthulhu's Abode
+room N23: Egg No. 01
+room N24: Arthur's House
+room N25: Power Supply Room
+room N26: Save Point
+room N27: Execution Chamber
+room N28: Gum
+room N29: Sand Zone Residence
+room N30: Bushlands Hut
+room N31: Main Artery
+room N32: Small Room
+room N33: Jenka's House
+room N34: Deserted House
+room N35: Warehouse
+room N36: Jenka's House
+room N37: Sand Zone
+room N38: Labyrinth H
+room N39: Labyrinth W
+room N40: Camp
+room N41: Clinic Ruins
+room N42: Labyrinth Shop
+room N43: Labyrinth B
+room N44: Boulder Chamber
+room N45: Labyrinth M
+room N46: Dark Place
+room N47: Core
+room N48: Waterway
+room N49: Egg Corridor?
+room N50: Cthulhu's Abode?
+room N51: Egg Observation Room?
+room N52: Egg No. 00
+room N53: Outer Wall
+room N54: Side Room
+room N55: Storehouse
+room N56: Plantation
+room N57: Jail No. 1
+room N58: Hideout
+room N59: Rest Area
+room N60: Teleporter
+room N61: Jail No. 2
+room N62: Balcony
+room N63: Final Cave
+room N64: Throne Room
+room N65: The King's Table
+room N66: Prefab Building
+room N67: Last Cave (Hidden)
+room N68: Black Space
+room N69: Little House
+room N70: Balcony
+room N71: Fall
+room N72: Studio Pixel
+room N73: Waterway Cabin
+room N74: 
+room N75: 
+room N76: 
+room N77: 
+room N78: 
+room N79: Prefab House
+room N80: Blood Stained Sanctuary - B1
+room N81: Blood Stained Sanctuary - B2
+room N82: Blood Stained Sanctuary - B3
+room N83: Storage
+room N84: Passage?
+room N85: Passage?
+room N86: Statue Chamber
+room N87: Seal Chamber
+room N88: Corridor
+room N89: 
+room N90: Hermit Gunsmith
+room N91: 
+room N92: Seal Chamber
+room N93: 
+room N94: Clock Room
