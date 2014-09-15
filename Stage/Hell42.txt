@@ -72,7 +72,7 @@
 
 #0110
 <PRI<MSG
-It won't open.<NOD<END
+Не відкривається.<NOD<END
 
 
 #0120

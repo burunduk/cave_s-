@@ -22,8 +22,8 @@
 
 #0200
 <KEY<MSG
-The destination is unknown.<NOD
-Do you still wish to teleport?<YNJ0000<CLO<FL+0524
+Місце призначення невідомо.<NOD
+Всеодно телепортуватися?<YNJ0000<CLO<FL+0524
 <CNP0300:0111:0000<HMC<WAI0060<ANP0200:0001:0000
 <WAI0100<FAO0004<TRA0018:0099:0015:0010
 
@@ -31,10 +31,10 @@ Do you still wish to teleport?<YNJ0000<CLO<FL+0524
 #0400
 <PRI<MSG
 Oh, you're a killer robot?<NOD<CLR
-You've come to kill us?<NOD<END
+Ти прийшов, аби вбити нас?<NOD<END
 #0401
 <PRI<MSG
-Let us outta here!<NOD<END
+Забери нас звідси!<NOD<END
 #0402
 <PRI<MSG
 The Doctor can eat it!<NOD<END
@@ -47,9 +47,9 @@ He's planning on making us fight the
 killer robots from the surface!<NOD<END
 #0404
 <PRI<MSG
-Do you know a Sakamoto person?<NOD
-She should be hiding in the 
-Plantation, somewhere...<NOD<END
+Ти знайомий із Сакомото?<NOD
+Вона має переховуватись десь 
+на Плантації...<NOD<END
 #0405
 <PRI<MSG
 There were a few humans in here as well,

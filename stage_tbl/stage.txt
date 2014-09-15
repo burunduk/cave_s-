@@ -3,74 +3,74 @@ Nothing
 Egg Corridor
 Яйце No.00
 Яйце No.06
-Egg Observation Room
+Кімната контролю яєць
 Bushlands
 Будинок Санти
 Chako's House
 Лабіринт I
-Sand Zone
+Піски
 Поселення Міміґ
 Перша печера
 Початкова точка
-Shack
+Хижка
 Резервуар
 Кладовище
 Yamashita Farm
-Shelter
+Сховище
 Зала для зборів
 Точка збереження
-Side Room
+Кутова кімната
 Cthulhu's Abode
 Яйце No. 01
 Будинок Артура
 Power Supply Room
 Точка збереження
-Execution Chamber
+Кімната тортур
 Gum
-Sand Zone Residence
+Поселення в пісках
 Bushlands Hut
 Main Artery
-Small Room
+Кімнатка
 Jenka's House
-Deserted House
+Пустельна хатка
 Warehouse
 Jenka's House
-Sand Zone
+Піски
 Лабіринт H
 Лабіринт W
-Camp
+Табір
 Руіни клініки
-Labyrinth Shop
+Магазин в лабіринті
 Лабіринт B
-Boulder Chamber
+Зала з каменюкою
 Лабіринт M
 Dark Place
-Core
+Ядро
 Waterway
 Egg Corridor?
 Cthulhu's Abode?
 Egg Observation Room?
 Яйце No. 00
 Outer Wall
-Side Room
-Storehouse
+Кутова кімната
+Скарбниця
 Плантація
-Jail No. 1
+В'язниця №1
 Hideout
-Rest Area
-Teleporter
-Jail No. 2
-Balcony
+Зона відпочинку
+Телепортер
+В'язниця №2
+Балкон
 Кінцева печера
 Throne Room
-The King's Table
+Стіл короля
 Prefab Building
 Остання печера (прихована)
-Black Space
-Little House
-Balcony
+Чорний космос
+Будиночек
+Балкон
 Fall
-Studio Pixel
+Студія Pixel
 Waterway Cabin
 
 
@@ -81,12 +81,12 @@ Prefab House
 Blood Stained Sanctuary - B1
 Blood Stained Sanctuary - B2
 Blood Stained Sanctuary - B3
-Storage
+Комора
 Passage?
 Passage?
-Statue Chamber
+Зала зі статуями
 Seal Chamber
-Corridor
+Коридор
 
 Відлюдний зброяр
 

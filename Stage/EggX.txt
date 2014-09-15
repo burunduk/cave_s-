@@ -105,9 +105,9 @@ have to help me.<NOD<CLO
 
 #0300
 <KEY<MSG<TUR
-Flying Dragon Egg No. 00
+яйце л≥таючого дракона є00
 Hatching preparations complete.<NOD<CLR
-Input Password:<NOD<END
+¬вед≥ть пароль:<NOD<END
 #0300
 <PRI<FAO0004<TRA0001:0094:0005:0007
 

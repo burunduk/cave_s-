@@ -49,7 +49,7 @@ Do you want to use the Jellyfish Juice?<YNJ0000<CLO
 <MNP0300:0012:0006:0000<ANP0300:0010:0000
 <WAI0050
 <LI+1000<SOU0020<MYD0002<MSG
-Life restored.<NOD<CLO<RMU<FAI0004<END
+Здоров'я відновлено.<NOD<CLO<RMU<FAI0004<END
 
 
 #0300
@@ -57,7 +57,7 @@ Life restored.<NOD<CLO<RMU<FAI0004<END
 <FLJ0261:0301
 <FLJ0241:0303
 <KEY<MSG
-Hi, how can I help you?<NOD<CLR
+Привіт, чим можу допомогти?<NOD<CLR
 Did you already meet that wimp
 Santa yet?<NOD<END
 #0301

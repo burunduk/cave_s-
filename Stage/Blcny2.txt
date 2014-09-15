@@ -28,7 +28,7 @@
 
 #0120
 <PRI<FLJ1393:0121<MSG
-It won't open!<NOD<END
+Не відкривається!<NOD<END
 #0121
 <KEY<FAO0004<FOM0016<TRA0079:0094:0010:0008
 
@@ -45,7 +45,7 @@ You'll fall beyond this point!<NOD<END
 
 #0201
 <PRI<MSG<TUR
-End of the road!<NOD<END
+Кінець дороги!<NOD<END
 
 #0210
 <PRI<FLJ1191:0211<FLJ1192:0212

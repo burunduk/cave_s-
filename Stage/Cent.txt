@@ -50,7 +50,7 @@ Used the Teleporter Room Key.<NOD<CLO
 
 #0150
 <PRI<FLJ1030:0151<MSG
-You're too early...<NOD<END
+Ти зарано...<NOD<END
 
 #0151
 <KEY<SOU0011<ANP0150:0000:0002<FAO0002

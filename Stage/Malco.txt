@@ -30,15 +30,15 @@
 <PRI<SOU0011<DNP0100<FAO0004<TRA0006:0094:0171:0017
 #0101
 <PRI<MSG
-It won't open!<NOD<END
+Не відкривається!<NOD<END
 
 #0200
 <FLJ0481:0202
 <KEY<MSG
 Fan Power Supply Offline.<NOD
 Malco Power Supply Offline.<NOD<CLR
-Turn Power On?<YNJ0000<CLR
-<SOU0043<FL+0481<CNP0201:0102:0000Power is On.<NOD<CLO
+Увімкнути живлення?<YNJ0000<CLR
+<SOU0043<FL+0481<CNP0201:0102:0000Живлення увімкнено.<NOD<CLO
 <KEY<CMU0000<ANP0300:0010:0000<WAI0020<MYD0002<WAI0450
 <CMU0004<MSG
 INTRUDER SIGHTED!<NOD
@@ -49,10 +49,10 @@ Oh Yeaaah!!<NOD<CLO
 <CMU0000<ANP0300:0021:0000<WAI0080<CMU0011
 <CNP0203:0012:0000
 <MSG<FAC0005
-Did you know that the
-Mimiga I found wasn't
-Sue?<YNJ0204<CLR
-Yep!<NOD<EVE0204
+Ти знаєш, що міміґа,
+яку ми знайшли, це 
+не Сью?<YNJ0204<CLR
+Так!<NOD<EVE0204
 
 #0201
 #0202
@@ -86,7 +86,7 @@ Better prepare yourself!<NOD<CLO
 
 #0250
 <KEY<MSG<TUR
-Booting up...<NOD<END
+Завантаження...<NOD<END
 
 #0300
 <FLJ0483:0303

@@ -18,7 +18,7 @@
 
 #0110
 <PRI<MSG
-You can't escape!<NOD<END
+Неможливо втекти!<NOD<END
 
 #0200
 <KEY

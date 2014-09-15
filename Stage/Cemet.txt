@@ -22,14 +22,15 @@
 <PRI
 <FLJ1371:0201
 <MSG
-Can I help you?<NOD<END
+Чим можу допомогти?<NOD<END
 #0201
 <PRI<MSG
-My wife's been looking for me?!?<NOD<CLR
+Моя дружина шукає мене?!?<NOD<CLR
 That's probably because I haven't 
 been home in a long time.<NOD
-Fine, I'll go home.<NOD<GIT1032<DNP0200<IT+0032<CLR
-Certainly, you'll take me there, yes?<NOD<END
+Гаразд, я йду додому..<NOD<GIT1032<DNP0200<IT+0032<CLR
+Certainly, ви ж мене відведите 
+туди, чи не так?<NOD<END
 
 #0300
 <CNP0300:0000:0000
@@ -37,6 +38,6 @@ Certainly, you'll take me there, yes?<NOD<END
 Arthur's grave.<NOD
 Something is written on the headstone, <NOD<CLR<MSG<TUR
 Here rests the true Mimiga hero, Arthur.<NOD<FLJ0390:0000<CLR<MSG<FL+0390
-<CMU0010<GIT1001<IT+0001Found Arthur's Key.<WAI0160<NOD<CLO
+<CMU0010<GIT1001<IT+0001Знайдено ключ Артура.<WAI0160<NOD<CLO
 <RMU<END
 

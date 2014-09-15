@@ -36,68 +36,68 @@ remove the shield somewhere...<NOD<END
 
 #0501
 <PRI<MS3
-Flying Dragon Egg No. 01
-Error: Egg stasis abnormal.
-Examine further.<NOD<END
+Яйце літаючого дракона №01
+Помилка: Egg stasis abnormal.
+Необхідна перевірка.<NOD<END
 #0502
 <PRI<MS3<TUR
-Flying Dragon Egg No. 02
+Яйце літаючого дракона №02
 Egg stasis normal.<NOD<END
 #0503
 <PRI<MS3<TUR
-Flying Dragon Egg No. 03
+Яйце літаючого дракона №03
 Egg stasis normal.<NOD<END
 #0504
 <PRI<MS3<TUR
-Flying Dragon Egg No. 04
+Яйце літаючого дракона №04
 Egg stasis normal.<NOD<END
 #0505
 <PRI<MS3<TUR
-Flying Dragon Egg No. 05
+Яйце літаючого дракона №05
 Egg stasis normal.<NOD<END
 #0506
 <PRI<MS3
-Flying Dragon Egg No. 06
-Error: Egg stasis abnormal.
-Examine further.<NOD<END
+Яйце літаючого дракона №06
+Помилка: Egg stasis abnormal.
+Необхідна перевірка.<NOD<END
 #0507
 <PRI<MS3<TUR
-Flying Dragon Egg No. 07
+Яйце літаючого дракона №07
 Egg stasis normal.<NOD<END
 #0508
 <PRI<MSG<TUR
-Flying Dragon Egg No. 08
+Яйце літаючого дракона №08
 Egg stasis normal.<NOD<END
 #0509
 <PRI<MSG<TUR
-Flying Dragon Egg No. 09
+Яйце літаючого дракона №09
 Egg stasis normal.<NOD<END
 #0510
 <PRI<MSG<TUR
-Flying Dragon Egg No. 10
+Яйце літаючого дракона №10
 Egg stasis normal.<NOD<END
 #0511
 <PRI<MSG<TUR
-Flying Dragon Egg No. 11
+Яйце літаючого дракона №11
 Egg stasis normal.<NOD<END
 #0512
 <PRI<MSG<TUR
-Flying Dragon Egg No. 12
+Яйце літаючого дракона №12
 Egg stasis normal.<NOD<END
 #0513
 <PRI<MSG<TUR
-Flying Dragon Egg No. 13
+Яйце літаючого дракона №13
 Egg stasis normal.<NOD<END
 #0514
 <PRI<MSG<TUR
-Flying Dragon Egg No. 14
+Яйце літаючого дракона №14
 Egg stasis normal.<NOD<END
 #0515
 <PRI<MSG<TUR
-Flying Dragon Egg No. 15
+Яйце літаючого дракона №15
 Egg stasis normal.<NOD<END
 #0516
 <PRI<MSG<TUR
-Flying Dragon Egg No. 16
+Яйце літаючого дракона №16
 Egg stasis normal.<NOD<END
 

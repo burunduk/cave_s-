@@ -27,7 +27,8 @@
 
 #0100
 <KEY<MSG
-Teleport to Arthur's house?<FL-0227<YNJ0000<CLO
+Телепортуватись до 
+будинку Артура?<FL-0227<YNJ0000<CLO
 <CNP0400:0111:0002<HMC<WAI0060<ANP0100:0001:0000
 <WAI0100<FAO0004<FLJ0219:0130<TRA0001:0099:0005:0008
 
@@ -47,7 +48,7 @@ Teleport to Arthur's house?<FL-0227<YNJ0000<CLO
 Заблоковано.<NOD<END
 #0105
 <SOU0022<MSG<GIT1009
-Used the Rusty Key.<NOD<CLO
+Використано іржавий ключ.<NOD<CLO
 <GIT0000<FL+0214<EVE0106
 #0106
 <PRI<SOU0011<DNP0104<FAO0004<TRA0025:0094:0016:0007
@@ -159,13 +160,13 @@ It won't open...<NOD<CLO
 <FLJ0215:0232
 <PRI<MSG
 There's someone in that crevice...<NOD<CLR
-Hey, you! Boy!<NOD<CLR
+Агов, ти! Хлопче!<NOD<CLR
 I need to get out of here.<NOD
 Would you, um, please help me?
 <YNJ0231<CLR
-Thanks!<NOD<CLR
-Please take this.<NOD<GIT1009<IT+0009<FL+0215<CLR
-<CMU0010Obtained the Rusty Key.<WAI0160<NOD<RMU<CLR
+Дякую!<NOD<CLR
+Прошу, візьми це.<NOD<GIT1009<IT+0009<FL+0215<CLR
+<CMU0010Отримано іржавий ключ.<WAI0160<NOD<RMU<CLR
 It was left in this room.<NOD
 Go ahead and use it, if you can.<NOD<END
 #0231
@@ -196,8 +197,8 @@ There has to be a better way...<NOD<END
 #0236
 <PRI<MSG
 Що? 
-Use a BOMB?? 
-On that door???<NOD<CLR
+Використати ВИБУХІВКУ?? 
+Для цих дверей???<NOD<CLR
 I guess that's a possibility...<NOD
 So, you're looking for the materials?<NOD<CLR
 .....<NOD<CLR

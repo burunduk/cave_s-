@@ -15,12 +15,13 @@
 
 #0200
 <KEY<FLJ0470:0202<ITJ0007:0201<TUR<MSG
-ID Card required to remove shield.<NOD<END
+Для декативації захисту потрібна 
+картка доступу.<NOD<END
 #0201
 <KEY<FL+0470<MSG<GIT1007
-Inserted the ID Card.<NOD<GIT0000<CLR
-<SOU0043Shield removed.<NOD<END
+Вставлено картку доступу.<NOD<GIT0000<CLR
+<SOU0043Захист деактивовано.<NOD<END
 #0202
 <KEY<MSG<TUR
-Shield has been removed.<NOD<END
+Захист було деактивовано.<NOD<END
 

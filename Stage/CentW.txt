@@ -27,10 +27,10 @@
 #0150
 <KEY<FLJ1140:0152
 <MSG
-Teleport to Arthur's house?<YNJ0000<CLO
+Телепортуватись до будинку Артура?<YNJ0000<CLO
 <FL+1082<FL+1140<PS+0005:6005
 <WAI0050<MSG
-I found you, Killer Robot!<NOD<CLO
+Я знайшов тебе, робот-вбивця!<NOD<CLO
 <MYD0002
 <ANP0250:0010:0000<WAI0060
 <CNP0260:0150:0000<HMC
@@ -40,7 +40,7 @@ I found you, Killer Robot!<NOD<CLO
 
 #0152
 <PRI<MSG
-Teleport to Arthur's house?<YNJ0000<CLO<PS+0005:6005
+Телепортуватись до будинку Артура?<YNJ0000<CLO<PS+0005:6005
 <KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0150:0001:0000
 <WAI0100<FAO0004<TRA0001:0099:0005:0008
 

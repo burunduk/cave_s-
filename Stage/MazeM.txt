@@ -29,7 +29,7 @@
 <SOU0011<ANP0110:0000:0002<FAO0002<TRA0046:0150:0003:0009
 #0112
 <PRI<MSG
-It won't open...<NOD<END
+Не відкривається...<NOD<END
 
 #0300
 #0301
@@ -46,8 +46,8 @@ It won't open...<NOD<END
 
 #0330
 <PRI<FLJ0782:0331<MSG
-There's a button.<NOD<SOU0043<CLR<MSG
-You press it.<NOD<CLO
+Тут є кнопка.<NOD<SOU0043<CLR<MSG
+Ви натиснули її.<NOD<CLO
 <FL+0782
 <WAI0050
 <SOU0071
@@ -57,7 +57,7 @@ You press it.<NOD<CLO
 <WAI0050<END
 #0331
 <PRI<MSG
-Open...<NOD<END
+Відкрито...<NOD<END
 
 #0400
 

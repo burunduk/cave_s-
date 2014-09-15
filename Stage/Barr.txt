@@ -21,12 +21,12 @@
 <FAO0004<TRA0011:0094:0042:0052
 #0101
 <PRI<MSG
-It won't open!<NOD<END
+Не відкривається!<NOD<END
 #0102
 <KEY<FAO0004<TRA0011:0094:0042:0052
 #0103
 <PRI<MSG
-You can't escape!<NOD<END
+Тобі не втекти!<NOD<END
 
 #0150
 #0151
@@ -44,7 +44,7 @@ You jerk!<NOD<DNP0290<CNP1000:0063:0002<END
 <KEY<FL-0361<FL-0362
 <SMC<CNP0400:0012:0000<ANP0400:0020:0004<WAI0140
 <PRI<MSG<FAC0005
-I'll remember this!<NOD<FAC0000<KEY<CLO
+Я це запам'ятаю!<NOD<FAC0000<KEY<CLO
 <WAI0100<CMU0015
 <MSG
 Defeated Balrog!<WAI0140<NOD
@@ -61,9 +61,9 @@ Defeated Balrog!<WAI0140<NOD
 #1000
 <KEY<FL+0360<FL+0361<FL+0440<FL-0326<MSG
 Waaaaaa!<NOD<CLR
-Oh, help me!
-Help me!<NOD<CLR
-.....<NODUh?<NOD<MYB0002<WAI0030<MYD0002<CNP1000:0060:0004<CLR<FAC0006
+Oh, допоможіть!
+Допоможіть мені!<NOD<CLR
+.....<NODГа?<NOD<MYB0002<WAI0030<MYD0002<CNP1000:0060:0004<CLR<FAC0006
 You're not the Doctor?<NOD<CLR
 Oh, sorry 'bout that.<NOD
 The Doctor's such a cruel
@@ -73,15 +73,15 @@ and kidnaps Mimiga...
 at times even killing someone.<NOD<CLR
 The Doctor--he killed my 
 older brother.<NOD<CLR
-Ah!<NOD
+Ах!<NOD
 That pendant!<GIT1004<NOD<CLR
 You picked it up for me?<NOD
 Sue gave it to me!<NOD<CLR
 .....<NOD<CLR
 But, I don't want it anymore.<NOD
-<GIT0000King gets bent out of shape
-when Sue and I get along.<NOD
-Please keep it.<NOD<CLO
+<GIT0000Кінґ дуже сердиться, коли 
+бачить нас зі Сью разом.<NOD
+Прошу, залиш його собі.<NOD<CLO
 <FAC0000<CMU0000
 <QUA0030<SOU0026
 <ANP1000:0008:0000

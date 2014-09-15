@@ -26,19 +26,19 @@
 <KEY<SOU0011<ANP0110:0000:0002<FAO0002<MYD0002<TRA0044:0092:0002:0013
 
 <KEY<MSG
-Good work!
-This is it for now.
-  2003/09/27 Studio Pixel<NOD<END
+Чудова робота!
+Наразі це все.
+  2003/09/27 Студія Pixel<NOD<END
 
 #0200
 <KEY<FLJ0744:0201<MS3
-The Power Supply is broken.<NOD<CLR
+Джерело живлення пошкоджено.<NOD<CLR
 An electrician with a certain amount of
 know-how could probably fix it.
-Maybe...<NOD<END
+Можливо...<NOD<END
 #0201
 <KEY<MSG
-Teleport to Arthur's house?<YNJ0000<CLO
+Телепортуватись до будинку Артура?<YNJ0000<CLO
 <CNP0300:0111:0002<HMC<WAI0060<ANP0200:0001:0000
 <WAI0100<FAO0004<TRA0001:0099:0005:0008
 
@@ -55,9 +55,9 @@ Teleport to Arthur's house?<YNJ0000<CLO
 #0501
 <KEY<ITJ0030:0503<FLJ0741:0502
 <MSG
-Uhh...<NOD<CLR<FAC0017
-Oh!<NOD
-Why are you here?!<NOD<CLR
+Ухх...<NOD<CLR<FAC0017
+Ох!<NOD
+А ти як тут опинився?!<NOD<CLR
 .....<NOD<CLR
 I see...
 Misery sent you down
@@ -101,8 +101,8 @@ Best of... luck...<NOD<FL+0741<FL+0834<ANP0501:0020:0000<END
 
 #0502
 <KEY<MSG
-Good luck...<NOD<END
+Щасти тобі...<NOD<END
 
 #0503
 <KEY<MSG
-Uuhh...<NOD<END
+Ууух...<NOD<END

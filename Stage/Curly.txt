@@ -23,7 +23,7 @@
 <FAO0004<TRA0032:0094:0008:0009
 #0102
 <PRI<MSG
-It won't open!<NOD<END
+Не відкривається!<NOD<END
 
 
 
@@ -47,9 +47,9 @@ You must remove the curse to move
 the Sun Stones.<NOD<END
 #0203
 <KEY<MSG
-Nyaa!<NOD<CLR
-I wanna eat some tasty fish.
-Nyaa!<NOD<END
+Мау!<NOD<CLR
+Хочу з'їсти смачненьку рибку.
+Мау!<NOD<END
 #0204
 <MSG
 Granny Jenka used to look after the

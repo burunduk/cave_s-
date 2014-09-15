@@ -18,5 +18,5 @@
 
 #0200
 <PRI<MSG
-The mangled remains of a robot.<NOD<END
+Понівечені залишки робота.<NOD<END
 
