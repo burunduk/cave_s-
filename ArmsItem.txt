@@ -5,12 +5,12 @@
 <MSG<TUR
 Немає зброї.<WAI9999<END
 #1001
-<MSG<TURSNAKE
-It shoots through walls!
-Built by Chaba in the Labyrinth Shop.<WAI9999<END
+<MSG<TURЗМІЙКА 
+Стріляє крізь стіни!
+Збудовано Чабою з Лабіринтної лавки.<WAI9999<END
 #1002
 <MSG<TURПОЛЯРНА ЗІРКА 
-Your very first gun.
+Твоя перша зброя.
 It carries the mark of the Northern Star.
 <WAI9999<END
 #1003
@@ -145,7 +145,7 @@ Life Pot<WAI9999<END
 Cure-All<WAI9999<END
 #5017
 <MSG<TUR
-Clinic Key<WAI9999<END
+Ключ від клініки <WAI9999<END
 #5018
 <MSG<TUR
 Прискорювач v0.8<WAI9999<END
@@ -166,10 +166,10 @@ Curly's Air Tank<WAI9999<END
 Прискорювач v2.0<WAI9999<END
 #5024
 <MSG<TUR
-Mimiga Mask<WAI9999<END
+Маска Міміґи <WAI9999<END
 #5025
 <MSG<TUR
-Teleporter Room Key<WAI9999<END
+Ключ від телепорту <WAI9999<END
 #5026
 <MSG<TUR
 Лист Сью <WAI9999<END
@@ -237,10 +237,10 @@ You're not supposed to find this.
 How'd you do it?<WAI9999<END
 #6006
 <MSG<TUR
-A Life Capsule.<WAI9999<END
+Капсула здоров'я.<WAI9999<END
 #6007
 <MSG<TUR
-An ID Card found inside Egg No. 06.<WAI9999<END
+Картка доступу з яйця №06.<WAI9999<END
 #6008
 <MSG<TUR
 A fluid that can extinguish fires.<WAI9999<END
@@ -375,7 +375,7 @@ Required to make a rocket.
 Pride of Itoh, the big fat coward.<WAI9999<END
 #6028
 <MSG<TUR
-A broken water sprinkler.<WAI9999<END
+Зламаний водяний розбризкувач.<WAI9999<END
 #6029
 <MSG<TUR
 It's new. ...Isn't it?<WAI9999<END

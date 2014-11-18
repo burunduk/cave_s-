@@ -1,12 +1,12 @@
-Nothing
+Нічого
 Будинок Артура
-Egg Corridor
+Інкубатор
 Яйце No.00
 Яйце No.06
 Кімната контролю яєць
 Bushlands
 Будинок Санти
-Chako's House
+Будинок Чако
 Лабіринт I
 Піски
 Поселення Міміґ
@@ -15,12 +15,12 @@ Chako's House
 Хижка
 Резервуар
 Кладовище
-Yamashita Farm
+Ферма Ямашити
 Сховище
 Зала для зборів
 Точка збереження
 Кутова кімната
-Cthulhu's Abode
+Обитель Ктулху
 Яйце No. 01
 Будинок Артура
 Power Supply Room
@@ -46,9 +46,9 @@ Jenka's House
 Лабіринт M
 Dark Place
 Ядро
-Waterway
-Egg Corridor?
-Cthulhu's Abode?
+Водогін
+Інкубатор?
+Обитель Ктулху?
 Egg Observation Room?
 Яйце No. 00
 Outer Wall
@@ -56,28 +56,28 @@ Outer Wall
 Скарбниця
 Плантація
 В'язниця №1
-Hideout
+Укриття
 Зона відпочинку
 Телепортер
 В'язниця №2
 Балкон
 Кінцева печера
-Throne Room
+Тронна зала
 Стіл короля
-Prefab Building
+Каркасна будівля
 Остання печера (прихована)
 Чорний космос
 Будиночек
 Балкон
 Fall
 Студія Pixel
-Waterway Cabin
+Кабіна водогону
 
 
 
 
 
-Prefab House
+Каркасний будинок
 Blood Stained Sanctuary - B1
 Blood Stained Sanctuary - B2
 Blood Stained Sanctuary - B3
@@ -85,11 +85,11 @@ Blood Stained Sanctuary - B3
 Passage?
 Passage?
 Зала зі статуями
-Seal Chamber
+Опечатана кімната
 Коридор
 
 Відлюдний зброяр
 
-Seal Chamber
+Опечатана кімната
 
 Clock Room
