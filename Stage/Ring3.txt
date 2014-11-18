@@ -87,7 +87,7 @@ Already forgotten your master's voice?<NOD<CLO
 <ANP0400:0000:0002<MS3
 <FAC0015!!!<NOD<CLO<FAC0000
 <MS2
-Ha!<NOD<CNP0410:0042:0000<CLR
+ер!<NOD<CNP0410:0042:0000<CLR
 
 The power of the red crystal is incredible.<NOD
 Even now I feel so... alive!<NOD<ANP0410:0000:0002<CLR

@@ -30,8 +30,8 @@
 
 #0400
 <PRI<MSG
-Oh, you're a killer robot?<NOD<CLR
-“и прийшов, аби вбити нас?<NOD<END
+ќй-йо, ти ≥ Ї робот-вбивц€?<NOD<CLR
+≤ ти прийшов, аби вбити нас?<NOD<END
 #0401
 <PRI<MSG
 «абери нас зв≥дси!<NOD<END

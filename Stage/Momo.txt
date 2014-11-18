@@ -107,9 +107,9 @@ complete the rocket.<NOD<CLO
 
 #0204
 <KEY<MSG<FAC0022
-Are you busy now?<YNJ0205<CLR
-Really?<NOD
-I see...<NOD<END
+Ти зараз зайнятий?<YNJ0205<CLR
+Справді?<NOD
+Я бачу...<NOD<END
 
 #0205
 <KEY<FL+1101<MSG

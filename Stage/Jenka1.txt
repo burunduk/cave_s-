@@ -23,7 +23,7 @@
 <FLJ0591:0211
 <FLJ0590:0210
 <KEY<MSG<FAC0013
-Who are you?<NOD
+Хто ти такий?<NOD
 I've never seen you around 
 here before, child.<NOD<END
 
@@ -35,14 +35,14 @@ here before, child.<NOD<END
 <FLJ0591:0221
 <FLJ0590:0220
 <KEY<MSG<FAC0013
-Oh, oh!<NOD<CLR<GIT1014
-That's my doggy!<NOD<CLR
-<GIT0000<FAC0000Gave her the Dog.<NOD<CLR<CNP0300:0130:0000<DNP0401<FL-0274<FAC0013
+Ох-хо!<NOD<CLR<GIT1014
+Це мій песик!<NOD<CLR
+<GIT0000<FAC0000Віддали Собаку.<NOD<CLR<CNP0300:0130:0000<DNP0401<FL-0274<FAC0013
 You've returned him to me.<NOD
 That was very nice of you.<NOD<CLR
-What???<NOD
-The red flower?<NOD<FAC0000<CLR<CMU0000<MSG
-Oh Yeaaah!!<NOD<CLO
+Що???<NOD
+Червоні квіти?<NOD<FAC0000<CLR<CMU0000<MSG
+А тааак!!<NOD<CLO
 <CNP0400:0009:0000<WAI0010<MYD0002<CNP0300:0132:0002<ANP0300:0100:0002<WAI0120<CMU0011
 <CNP0400:0012:0000
 <MSG<FAC0005
@@ -51,7 +51,7 @@ Oh, it's you, Balrog.<NOD<ANP0300:0120:0002
 You look good.<NOD
 How's my stupid daughter 
 been lately?<NOD<CLR<FAC0014
-Ha!<NOD
+Ха!<NOD
 Stupid daughter...
 You mean Misery?<NOD
 She's also fine.<NOD<CLR
@@ -236,10 +236,10 @@ Only one more to go.<NOD<FL+0593<END
 
 #0310
 <KEY<MSG
-Arf!<NOD<END
+Тяф!<NOD<END
 #0311
 <KEY<MSG
-Woof woof!<NOD<END
+Гав гав!<NOD<END
 #0312
 <KEY<MSG
 Bow wow wow!<NOD<END

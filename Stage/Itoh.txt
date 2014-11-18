@@ -32,10 +32,10 @@ Ooouuwaah!<NOD<CLO
 <ANP0400:0010:0000
 <MSG
 EEEEK!<MYB0002<NOD<CLR
-Don't kill me!<NOD
-I'm a human!
-I was turned into a Mimiga by magic!<NOD<CLR
-Eh?<NOD<CLR
+Не вбивай мене!<NOD
+Я людина!
+Я перетворений в Мімігу магією!<NOD<CLR
+Що?<NOD<CLR
 .....<NOD<CLR<ANP0400:0000:0000<FAC0028
 You mean, you're not a
 killer robot?<NOD
@@ -47,7 +47,7 @@ Are you here to save us?<NOD<END
 #0401
 <KEY<FL+1002
 <MSG<FAC0028
-I'm Itoh.
+Я Itoh.
 I'm one of the humans who
 came to study the island.<NOD
 Misery gave me this lovely
@@ -76,19 +76,19 @@ happens to be stuck here...<NOD<END
 #0403
 <KEY<MSG<FL+1003<FAC0028
 Itoh?<NOD
-That's me.<NOD<CLR
-What?<NOD
-Sakamoto is making a rocket?<NOD<CLR
+Це я і є.<NOD<CLR
+Що таке?<NOD
+Сакомото будує ракету?<NOD<CLR
 I had no idea she was still
 alive and well...<NOD
 She's really strong.<NOD
 Compared to her, I'm...<NOD<CLR
 All right.<NOD
-Take this.<NOD<FAC0000<GIT1027<IT+0027<CLR
-<CMU0010Obtained the Controller.<WAI0160<NOD<RMU
+Тримай це.<NOD<FAC0000<GIT1027<IT+0027<CLR
+<CMU0010Отрмано Контролер.<WAI0160<NOD<RMU
 <CLR<FAC0028
 I think, perhaps, that this is
 what Sakamoto needs.<NOD<GIT0000<EVE0404
 #0404
 <KEY<MSG<FAC0028
-Say hello to her for me.<NOD<END
+Передавай їй привіт від мене.<NOD<END

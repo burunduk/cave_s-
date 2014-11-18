@@ -265,14 +265,14 @@ I won't let that happen!<NOD<CLO
 
 
 #0500
-<KEY<MSG<TUR          Вверх: Ферма Yamashita 
+<KEY<MSG<TUR          Вверх: Ферма Ямашити 
 Ліворуч: Резервуар Праворуч: Кладовище 
           Вниз: Будинок Артура <NOD
 <END
 
 #0501
 <KEY<MSG<TUR
-                  Yamashita Farm<NOD<END
+                   Ферма ямашити<NOD<END
 #0502
 <KEY<MSG<TUR
                  Резервуар <NOD<END

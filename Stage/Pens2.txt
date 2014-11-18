@@ -27,11 +27,11 @@
 #0701
 <KEY<FAI0004<MSG<FAC0001
 Сью: Так, це я <NOD
-Сью: Сью Sakamoto, твоя сестра.<NOD<CLR
+Сью: Сью Сакомото, твоя сестра.<NOD<CLR
 Сью: so you were able to 
 escape too?<NOD
-Сью: where are you at now?<NOD
-Сью: I found the dragon eggs<NOD
+Сью: де ти тепер?<NOD
+Сью: Я знайшля яйця драконів <NOD
 Сью: is mom with you?<NOD<FAO0004<TRA0018:0701:0002:0000
 #0702
 <KEY<FAI0004<MSG<FAC0001
@@ -43,10 +43,10 @@ a password<NOD
 about that?<NOD<FAC0000<CLR<MSG
 Отримання інформації від "Казума".<WAI0150<CLR<TUR
 Завершено.<NOD<CLR
-Розташування: Bushlands Structure D<NOD
+Розташування: Переліс, Structure D<NOD
 Шукаю фінкціонуючі телепорти.<NOD<CLR
 Телепорт: Підготовка з'єднання з 
-Bushlands...<NOD<CLR
+Перелісом...<NOD<CLR
 <MSG<FAC0001
 Сью: anyhow, I'm on my way 
 to go help you.<NOD
@@ -58,7 +58,7 @@ Is that boy ready yet???<NOD<CLR
 <SOU0011<CNP0710:0061:0000<WAI0020<CMU0000<ANP0700:0000:0002!!!<NOD
 <CLO<ANP0710:0008:0000<WAI0016<ANP0710:0000:0000
 <MSG<FAC0007
-Welcome back.<NOD
+З поверненням.<NOD
 I've been waiting...<NOD<CLR<FAC0002
 Now what?<NOD
 I'm busy.<NOD<CLR<FAC0007

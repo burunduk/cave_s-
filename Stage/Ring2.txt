@@ -44,16 +44,16 @@ back in my house.<NOD<FLJ1020:0205<CLR
 You've come to save me?<NOD<END
 #0201
 <PRI<MSG
-Good luck!<NOD<END
+Ùàñòè òîá³!<NOD<END
 #0202
 <KEY<MSG
 You did well.<NOD<CLR
 I feel a little like a celebrity.<NOD<CLR
-Sue?<NOD<CLR
-Yeah, I know her.<NOD
-That girl looks like a Mimiga,
-but is really a human, isn't she?<NOD
-Well, my eyes can't be fooled.<NOD
+Ñüş?<NOD<CLR
+Òàê, ÿ çíàş ¿¿.<NOD
+Öÿ ä³â÷èíà ñõîæà íà Ì³ì³´,
+àëå íàñïğàâä³ âîíà ëşäèíà, isn't she?<NOD
+Î òàê, ìîş î÷³ íå ï³äâîäÿòü ìåíå.<NOD
 She's not here, though.<NOD<CLO
 <FL+1272<END
 #0203
@@ -61,7 +61,7 @@ She's not here, though.<NOD<CLO
 <KEY<MSG
 You're strong, aren't you.<NOD
 Like our great hero, Arthur.<NOD<FLJ1274:0000<FL+1274<CLR
-Heh.<NOD<CLO
+Õåõ.<NOD<CLO
 <ANP0250:0010:0005
 <ANP0251:0010:0005
 <ANP0252:0010:0005
@@ -100,7 +100,7 @@ Watch out!
 Behind you!!!<NOD<END
 #0222
 <KEY<MSG
-Do you remember me?<NOD
+Ïàì'ÿòàºø ìåíå?<NOD
 I lost my key in Bushlands...<NOD<FLJ1020:0223<CLR
 Gotcha...<NOD<CLR
 Yes, that doctor's a bad guy.<NOD<END
@@ -122,7 +122,7 @@ Why are you wearing a Mimiga mask!?!<NOD<END
 <KEY<FON0410:0016<ANP0410:0500:0004<WAI0050
 <CMU0000<MS3
 Aahhh!!<MYB0410<NOD<CLR
-Ooooh...<WAI0020 NOOOoooo!!!<WAI0020<CLR
+Ooooh...<WAI0020 Í²²³³³³!!!<WAI0020<CLR
 The power... is out of... CONTROL!!!<NOD<CLO
 <ACH0043
 <WAI0050<CNP0420:0267:0004<WAI0100
@@ -156,7 +156,7 @@ Defeated the Doctor!<WAI0140<NOD<CMU0000<CLO
 <CMU0017<MYD0002
 <CMP0003:0013:0021
 <MS3<FAC0021<ANP0400:0010:0000
-HA HA HA!<NOD<CLR
+ÕÀ ÕÀ ÕÀ!<NOD<CLR
 Finally, it's complete.<NOD<CLO<FAC0000
 <WAI0020<ANP0400:0020:0000<WAI0030
 <MS3<FAC0021
@@ -177,7 +177,7 @@ Which is this...<NOD<CLO<FAC0000
 ...The Red Crystal.<WAI0030<NOD<CLR
 And this Red Crystal--<NOD
 it works on humans as well.<NOD<CLR<ANP0400:0050:0000
-Ha ha!<NOD<CLR
+Õà õà!<NOD<CLR
 Amazing!<NOD<CLR
 Do you understand how
 extraordinary this is?

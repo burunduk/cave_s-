@@ -248,8 +248,8 @@ EQUIPPED FIREPOWER.<NOD<CLR
 ќй-ой!<NOD<CLR
 як!?!<NOD<CLR<FAC0019
 јгов!<NOD<CLR
-That's the same witch who 
-zapped me!<NOD<CLR
+÷е та сама в≥дьма, що 
+zapped мене!<NOD<CLR
 Are those children safe!?!<NOD<CLR<FAC0016
 Shut it!<NOD<CLR
 Don't act like you're a mother!<NOD
@@ -263,10 +263,10 @@ The island will fall if THIS
 stops!!<NOD<CLR
 Do you really want to die
 along with the island?!?<NOD<CLR
-You stupid fool!!<NOD<CLO<FAC0000
+“и круглий дурень!!<NOD<CLO<FAC0000
 <CNP0402:0139:0000<ANP0402:0040:0000<WAI0100
 <MSG<FAC0021
-MISERY!!<NOD<CLR
+ћ≤«≈–≤!!<NOD<CLR
 ўо ти робиш?!?
 Move the Core to the lab NOW!<NOD<CLR
 While you still have time!<NOD<CLO<FAC0000

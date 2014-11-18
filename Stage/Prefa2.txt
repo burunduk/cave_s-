@@ -26,8 +26,8 @@ You're locked in...<NOD<END
 
 #0200
 <PRI<MSG
-If you're going to give up, I'll turn
-back time a minute or two.<NOD<CLR
+If you're going to give up, я зможу 
+повернути час на хвилину чи дві.<NOD<CLR
 Give up?<YNJ0000<CLO
 <FL+1390<FL+1391<FL+1392<CMU0000<FAO0001<WAI0100
 <TRA0070:0310:0118:0062

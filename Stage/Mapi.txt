@@ -38,8 +38,8 @@ See you later.<NOD<END
 
 #0402
 <KEY<FL+1561<MSG
-Hm, amnesia?<NOD
-Oh, that's terrible.<NOD<EVE0403
+Õì, àìíåç³ÿ?<NOD
+Îõ-õî, öå æàõëèâî.<NOD<EVE0403
 #0403
 <KEY<MSG
 Do you want the Mushroom Badge?<YNJ0408<EVE0404<END
@@ -71,7 +71,7 @@ Well then, I'll give it to you.<NOD<CLR<GIT1033<IT+0033<FL+1562<CLR
 
 #0411
 <KEY<MSG
-WHAAAAAAAAAAAT!<NOD<END
+ÙÎÎÎÎÎÎÎ!<NOD<END
 
 #0420
 <KEY<MSG

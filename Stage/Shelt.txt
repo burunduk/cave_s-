@@ -22,11 +22,11 @@
 #0102
 <KEY<FLJ0524:0103
 <MSG
-A teleporter.<NOD<CLR
+Телепортер.<NOD<CLR
 Its use seems to be suspended...<NOD<END
 #0103
 <PRI<MSG
-Teleport to the Plantation?<YNJ0000<CLO
+Телепортуватись на Плантації?<YNJ0000<CLO
 <KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0102:0001:0000
 <WAI0100<FAO0004<TRA0061:0099:0007:0013
 
@@ -48,7 +48,7 @@ I knew you could do it!<NOD<CLR
 .....<NOD
 <CLR
 Um...<NOD
-Мене звати Казума Sakamoto.<NOD
+Мене звати Казума Сакомото.<NOD
 Але називай мене просто, Казума.<NOD<CLR
 Luckily, I was able to escape
 from the Doctor, but then...<NOD
@@ -59,13 +59,13 @@ You're a real life saver!<NOD<CLR
 By the way...<NOD<CLR
 Have you heard of a place
 called Mimiga Village?<NOD<CLR
-...Sue?<NOD<CLR
-You know Sue?!<NOD<CLR
-I see...<NOD
+...Сью?<NOD<CLR
+Ти знаєш Сью?!<NOD<CLR
+Я бачу...<NOD
 So, you've come to get me
 in place of Sue.<NOD<CLR
 I understand.<NOD
-Let's go!
+Йдемо!
 Take me to the village!<NOD<SOU0043<ANP0102:0001:0000<WAI0030<ANP0210:0000:0002<CLR
 ?!<NOD<CLO<FAC0000
 <CNP0303:0113:0000<ANP0303:0030:0000<WAI0100
@@ -80,7 +80,7 @@ Yes, somehow.<NOD<CLO
 <FAC0000<MSG<FAC0018
 And how's Sue?<NOD
 Is she safe?!<NOD<CLR<FAC0010
-Sue's in Mimiga Village.<NOD
+Вона в поселені Міміґ.<NOD
 This boy will get us there.<NOD<CLO
 <WAI0020<ANP0210:0000:0000<WAI0010
 <FAC0000<MSG<FAC0018
@@ -140,8 +140,8 @@ Use of this teleporter is currently
 suspended.<NOD<END
 #0221
 <KEY<MSG<TUR
-Teleportation to Plantation is
-possible.<NOD<END
+Можлива телепортація на 
+Плантації.<NOD<END
 
 #0300
 #0301
@@ -180,7 +180,7 @@ anything inside<NOD
 Казума: СЬЮЮЮЮ!<NOD
 Казума: відпиши мені <NOD
 Казума: they're looking for you
-Казума: are you asleep or what?<NOD
+Казума: ти заснула, чи що?<NOD
 Казума: your brother is so lonely...<NOD<FAO0004<SMC<CLO
 <TRA0090:0095:0014:0009
 
@@ -188,8 +188,8 @@ anything inside<NOD
 #0502
 <KEY<HMC<CMU0021<FAI0004
 <MSG
-Казума: c'mon Sue!!!<NOD
-Казума: type something will you?<NOD
+Казума: давай же, Сью!!!<NOD
+Казума: напиши хоча б щось?<NOD
 Казума: starving over here...
 Казума: I'm so hungry that, that...
 Казума: I even ate a cockroach<NOD

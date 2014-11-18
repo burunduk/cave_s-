@@ -36,11 +36,12 @@
 <FLJ1023:0137
 <ITJ0025:0136
 <MSG
-It reads "DO NOT ENTER".<NOD
-Also, it's locked.<NOD<END
+Напи «НЕЗАХОДИТИ».<NOD
+Доречі, двері зачинено.<NOD<END
 #0136
 <SOU0022<MSG<GIT1025
-Used the Teleporter Room Key.<NOD<CLO
+Використано ключ від кімнати 
+телепорту.<NOD<CLO
 <GIT0000<FL+1023<EVE0137
 #0137
 <KEY<SOU0011<ANP0135:0000:0002<FAO0000<TRA0060:0090:0018:0009
@@ -102,7 +103,7 @@ Long live the great Doctor!<NOD<END
 <EVE0299
 #0231
 <PRI<MSG
-Why aren't you working...<NOD<END
+Ти чого це не працюєш...<NOD<END
 
 #0240
 <PRI
@@ -112,7 +113,7 @@ Why aren't you working...<NOD<END
 
 #0241
 <PRI<FL+1037<MSG
-You.<NOD<CLR
+Ти.<NOD<CLR
 You're a new face around here.<NOD
 You must be puzzled having been
 brought here so suddenly.<NOD<CLR

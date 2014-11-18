@@ -85,8 +85,8 @@ It's not receiving any power.<NOD<END
 
 #0400
 <KEY<FLJ0721:0410<MSG
-Hi.<NOD<CLR
-This is the Labyrinth shop!<NOD
+Здоров.<NOD<CLR
+Це магазин Лабіринту!<NOD
 Unfortunately, a burglar broke in
 recently and took everything.<NOD
 So I don't have anything to sell you.<NOD

@@ -6,7 +6,7 @@
 #0092
 <PRI<CMU0000<MSG<ZAM
 A black wind blows through your body.<NOD<CLR
-All weapons drop to Level 1!<NOD<CLO
+Всю зброю деградовано до 1-го рівня!<NOD<CLO
 <FRE<MNA<CMU0029<FAI0002<END
 #0093
 <MNA<CMU0029<FAI0003<END
@@ -51,5 +51,5 @@ All weapons drop to Level 1!<NOD<CLO
 <PRI<FLJ1320:0001<FL+1320<SOU0022<CNP0251:0021:0000
 <MSG
 Відкрито скриньку зі скарбами.<NOD<GIT1031<IT+0031<CLR
-<CMU0010Obtained the Medal of the Red Ogre.<ACH0041<WAI0160<NOD<RMU<END
+<CMU0010Отримано the Medal of the Red Ogre.<ACH0041<WAI0160<NOD<RMU<END
 

@@ -46,29 +46,29 @@
 <FLJ0325:0202
 <FLJ0154:0201
 <KEY<MSG
-Text is displayed on-screen...<NOD<CLR<TUR
-"Kazuma: but, just so you know, if I get
+На екрані відображається текст...<NOD<CLR<TUR
+"Казума: but, just so you know, if I get
 to that point I'll do it..."<NOD<FLJ0153:0000<CLR<MSG
-Allow teleportation to Egg Corridor?<YNJ0000<CLR
-Egg Corridor now accessible via
-teleport.<NOD<FL+0153<PS+0001:6001<END
+Активувати телепорт до Інкубатору?<YNJ0000<CLR
+Інкубатор тепер доступний через 
+телепорт.<NOD<FL+0153<PS+0001:6001<END
 #0201
 <KEY<MSG
-Text is displayed on-screen...<NOD<CLR
-Preparing connection with Bushlands...<NOD<END
+На екрані відображається текст...<NOD<CLR
+Підготовка з'єднання із Перелісом...<NOD<END
 #0202
 <KEY<MSG
-Connection with Bushlands complete.<NOD<END
+Підключення до Перелісу завершено.<NOD<END
 #0203
 <KEY<MSG
-Command?<NOD<END
+Команда?<NOD<END
 #0204
 <KEY<MSG
-Connected to Sand Zone.<NOD<END
+Підключення до Пісків.<NOD<END
 #0205
 <KEY<MSG
-Text is displayed on-screen...<NOD<CLR<TUR
-Teleport to Egg Corridor...
+На екрані відображається текст...<NOD<CLR<TUR
+Телепорт до інкубатору...
  - Казума <NOD<END
 #0210
 <KEY<MSG
@@ -80,13 +80,13 @@ Teleport to Egg Corridor...
 
 #0500
 <KEY<MSG
-It's a teleporter.<NOD<SLP<NOD<END
+Це телепортер.<NOD<SLP<NOD<END
 
 #0600
 <FLJ0325:0601
 <KEY<MSG<FAC0009
-Welcome back...<NOD<CLR
-Sue has returned.<NOD
+З поверненням...<NOD<CLR
+Сью повернулась.<NOD
 We locked her up inside a
 cage up top the village.<NOD
 When the Doctor's gang 
@@ -123,7 +123,7 @@ weren't going to make it.<NOD<CLR<FAC0010
 <CNP0625:0042:0000
 <MSG<FAC0001
 Казума!<NOD<ANP0622:0000:0002<CLR
-And Professor Booster!<NOD<CLR<FAC0018
+І професор Booster!<NOD<CLR<FAC0018
 Ох!<NOD<CLO<FAC0000
 <ANP0621:0003:0002<WAI0080
 <ANP0621:0000:0002
@@ -166,17 +166,17 @@ We need to hurry and do
 something about it...<NOD<END
 #0622
 <KEY<FLJ0158:0632<MSG<FAC0010
-Good work.<NOD<CLR
+Гарна робота.<NOD<CLR
 The bike is a complete wreck,
 but somehow we made it..<NOD<END
 #0624
 <KEY<FLJ0158:0634<MSG<FAC0007
-Toroko...
+Тороко...
 as a weapon of death...<NOD<CLR
 I won't allow it!<NOD<END
 #0625
 <KEY<FLJ0158:0635<MYB0000<WAI0030<MYD0000<ANP0625:0000:0002<MSG
-<FAC0001Welcome back!<NOD<CLR
+<FAC0001З поверненням!<NOD<CLR
 Seems like I owe you yet
 another one.<NOD
 With Kazuma here, I'm sure 
@@ -242,7 +242,7 @@ Perhaps, one of them--<NOD<CLR<FAC0010
 Professor.<NOD
 I've connected us to the
 Sand Zone teleporter.<NOD<CLR<FAC0018
-Hmm...<NOD<CLO<FAC0000
+Хмм...<NOD<CLO<FAC0000
 <ANP0622:0003:0000<WAI0015
 <ANP0622:0000:0002
 <ANP0621:0000:0002<WAI0030<MSG<FAC0018
@@ -268,7 +268,7 @@ just now.<NOD<CLR
 You are indeed well-made.<NOD<END
 #0634
 <KEY<MSG<FAC0007
-Sand Zone, huh...<NOD<END
+Піски, хух...<NOD<END
 #0635
 <KEY<MSG<FAC0001
 If there are no more red
@@ -320,8 +320,8 @@ Please honor my final request.<NOD<CLR
 If you see Sue one last time,
 please take her and...
 escape... from the island.<NOD<CLR
-She is Dr. Sakamoto's
-daughter.<NOD
+Вона донька доктора 
+Сакомото.<NOD
 For the longest time she
 resisted coming to this 
 island.<NOD
@@ -352,29 +352,29 @@ We humans are evil.<NOD<END
 
 #6001
 <PRI<MSG
-Teleport to the Egg Corridor?<YNJ0000<CLO
+Телепортуватись до Інкубатору?<YNJ0000<CLO
 <KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
 <WAI0100<FAO0004<FLJ0159:6011<TRA0002:0099:0005:0006
 #6002
 <PRI<MSG
-Teleport to Bushlands?<YNJ0000<CLO
+Телепортуватись до Перелісу?<YNJ0000<CLO
 <KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
 <WAI0100<FAO0004<TRA0006:0098:0004:0018
 #6003
 <PRI<MSG
-Teleport to Sand Zone?<YNJ0000<CLO
+Телепортуватись до Пісків?<YNJ0000<CLO
 <KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
 <WAI0100<FAO0004<TRA0010:0099:0036:0033
 
 #6004
 <PRI<MSG
-Teleport to the Labyrinth?<YNJ0000<CLO
+Телепортуватись до Лабіринт?<YNJ0000<CLO
 <KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
 <WAI0100<FAO0004<TRA0043:0099:0010:0034
 
 #6005
 <PRI<MSG
-Teleport to the Plantation?<YNJ0000<CLO
+Телепортуватись до Плантації?<YNJ0000<CLO
 <KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
 <WAI0100<FAO0004<TRA0060:0099:0009:0009
 

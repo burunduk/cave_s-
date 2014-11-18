@@ -23,7 +23,7 @@
 
 #0200
 <PRI<MSG<TUR
-You can't go back...<NOD<END
+Ти не можеш повернутись назад...<NOD<END
 
 
 

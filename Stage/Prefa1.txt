@@ -21,6 +21,7 @@
 
 #0200
 <KEY<MSG
+Це нотатки професора Booster.<NOD
 It's Professor Booster's memo.<NOD
 Do you want to read it?<YNJ0000<CLR<TUR
 Further investigation of the island

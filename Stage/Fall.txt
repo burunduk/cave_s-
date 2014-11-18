@@ -23,7 +23,7 @@
 <WAI0160
 <MSG
 <CMU0010Kazuma catches you!<WAI0160<CLR<FAC0010
-Wow...<NOD<CLR
+Ух-ти...<NOD<CLR
 I didn't think you were
 really going to do it.<NOD<CLR
 You destroyed the core!<NOD<CLR
@@ -78,7 +78,7 @@ I didn't know that.<NOD<CLR<FAC0005
 Yep!<NOD<CLO<FAC0000
 <WAI0150
 <MSG<FAC0005
-And now...<NOD<CLR
+І тепер...<NOD<CLR
 <FAC0025Now?<NOD<CLR<FAC0005
 What are you gonna do now?<NOD
 I can take you anywhere!<NOD<CLR<FAC0019
@@ -87,13 +87,13 @@ Our mission's complete so...
 I want to live somewhere
 calm with a nice view.<NOD<CLO<FAC0000
 <WAI0100<MSG<FAC0005
-Pardon me, but... um...<NOD<CLR
-<FAC0025Yes?<NOD<CLR<FAC0005
+Вибач мене, але... хм...<NOD<CLR
+<FAC0025Так?<NOD<CLR<FAC0005
 ...Can I go with?<NOD<CLR
-<FAC0019Sure!<NOD
+<FAC0019Звичайно!<NOD
 All three of us, we can live
 together for sure!<NOD<CLR
-<FAC0014Really?!?<NOD<CLR<FAC0019
+<FAC0014Дійсно?!?<NOD<CLR<FAC0019
 You can even pick the spot
 where we all live!<NOD
 But take us someplace nice.<NOD<CLR

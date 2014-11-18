@@ -30,12 +30,13 @@
 
 #0130
 <PRI<MSG
-Is this the helicopter Sue arrived in on?<NOD<END
+Чи це не той самий гвинтокрил Сью, 
+яким вона дісталась сюди?<NOD<END
 
 #0199
 <PRI<MSG
-Thank you for all the hard work.<NOD<END
-<FAO0004Fin.<NOD<CLO<CMU0033<CRE<WAI9999<END
+Дякую тобі за все, що ти зробив.<NOD<END
+<FAO0004Кінець.<NOD<CLO<CMU0033<CRE<WAI9999<END
 
 #0200
 <KEY<MYD0000<DNP0200<WAS<MSG
@@ -43,7 +44,7 @@ You'll fall beyond this point!<NOD<END
 
 #0201
 <PRI<MSG<TUR
-                  End of the road!<NOD<END
+                 Далі дороги нема!<NOD<END
 
 #0210
 <PRI<FLJ1191:0211<FLJ1192:0212

@@ -23,7 +23,8 @@
 
 #0100
 <PRI<MSG
-Телепортуватись до будинку Артура?<YNJ0000<CLO
+Телепортуватись до 
+будинку Артура?<YNJ0000<CLO
 <FLJ0106:0102
 <KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0100:0001:0000
 <WAI0100<FAO0004<TRA0001:0099:0005:0008
@@ -90,12 +91,12 @@ Its touch is as deadly as it gets.<NOD<END
 <MSG<FAC0003<ANP0502:0011:0002
 Ось де ти, монстре!<NOD
 Ти не налякаєш мене!<ANP0502:0000:0002<NOD<CLR<CMU0000
-<FAC0012GRRRRAWWR!!!<NOD<CLR<FAC0003<ANP0502:0011:0002<ANP0502:0011:0002
+<FAC0012ГРРРРАВРР!!!<NOD<CLR<FAC0003<ANP0502:0011:0002<ANP0502:0011:0002
 ЩОО!<NOD
 You want some of this?!?<NOD<CLR
 Take your best shot!<NOD
-Even my big brother has 
-never beaten me!<NOD<FAC0000<CLO
+Навіть мій старший брат 
+не міг перемогти мене!<NOD<FAC0000<CLO
 <ANP0501:0002:0000<WAI0058
 <ANP0501:0004:0000<WAI0010
 <ANP0502:0006:0002<WAI0010<PRI<MSG<FAC0004

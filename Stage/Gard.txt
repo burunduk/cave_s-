@@ -33,33 +33,34 @@ You can't get out!<NOD<END
 Great Doctor.<NOD
 All the red flower seeds
 have been harvested.<NOD<CLR
-<FAC0021Good.<NOD<CLR
-By the way...<NOD
-The flowers blooming there.<NOD<CLO
+<FAC0021Добре.<NOD<CLR
+Доречі...<NOD
+Квіти які там ростуть.<NOD<CLO
 <WAI0030<ANP0502:0000:0000<WAI0030
 <MSG
-Are they the demon flowers?<NOD<FAC0000<CLO
+Це ті демонічні квіти?<NOD<FAC0000<CLO
 <WAI0030<ANP0502:0000:0002
 <MSG<FAC0015
-Yes, sir.<NOD<CLR<FAC0021
-Well, well...<NOD<CLR
-Such an ominous flower.
+Так, сер.<NOD<CLR<FAC0021
+Чудово, чудово...<NOD<CLR
+Виходить, це і є та загадкова 
+квітка.
 Unexpected to say the least...<NOD<CLR<FAC0015
-My Great Doctor...<NOD
-Would you like to eat one?<NOD<CLR<FAC0021
-...No, that won't be necessary.<NOD<CLR
+Мій Великий Докторе...<NOD
+Бажаєте з'їсти один з них?<NOD<CLR<FAC0021
+...Ні, в цьому немає необхідності.<NOD<CLR
 .....<NOD<CLR
-Well...<NOD
-Why don't we sample it by
-using a Mimiga instead?<NOD<CLR<FAC0016
-Yes, I agree!<NOD<FAC0000<CLO
+Що ж...<NOD
+Чому б нам не випробувати 
+їх на міміґах?<NOD<CLR<FAC0016
+Так, цілком з вами згодна!<NOD<FAC0000<CLO
 <ANP0502:0030:0000<WAI0050
 <CNP0503:0144:0000<WAI0110
 <MSG
-Uuuh.<WAI0050<NOD<CLR<CNP0503:0060:0000<FAC0006
+У-ухх.<WAI0050<NOD<CLR<CNP0503:0060:0000<FAC0006
 .....<NOD<CLR
-Huh?
-Here?<NOD<FAC0000<CLO
+Га?
+Де?<NOD<FAC0000<CLO
 <WAI0030<ANP0503:0000:0002<MSG<FAC0008
 Ваааааа!<NOD<FAC0000<CLO
 <ANP0503:0006:0000<CNP0504:0009:0002<WAI0100
