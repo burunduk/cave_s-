@@ -45,7 +45,7 @@ possessed by the red flower,
 against the surface.<NOD<CLR
 Wait!<NOD<CLR
 Please take this with you.<NOD<GIT1015<IT+0015<CLR
-<FAC0000<CMU0010Obtained a Life Pot.<WAI0160<NOD<RMU<CLR<FAC0013
+<FAC0000<CMU0010Отримано Пляшечку Здоров'я.<WAI0160<NOD<RMU<CLR<FAC0013
 Use it and your life will be
 fully restored,<NOD
 but just once.<NOD<END
@@ -61,9 +61,9 @@ against the surface.<NOD<END
 <KEY<ITJ0015:0232
 <MSG<FAC0013
 You do have good timing.<NOD<GIT1015<IT+0015<CLR
-<FAC0000Obtained a Life Pot.<WAI0030<NOD<GIT0000<CLR<FAC0013
-Come again if you use it. 
-I'll give you another one.<NOD<END
+<FAC0000Отримано Пляшечку Здоров'я.<WAI0030<NOD<GIT0000<CLR<FAC0013
+Повертайся, коли використаєш її. 
+Я дам тобі ще одну.<NOD<END
 #0232
 <KEY<MSG<FAC0013
 Even a witch can't cheat 

@@ -55,7 +55,7 @@ Hold on tight.<NOD<CLO<FAC0000
 <ANP0410:0020:0002<WAI0250
 <ANP0410:0010:0002<WAI0200
 <MSG
-And that was how you and Kazuma
+And that was how you and Казума
 safely escaped from the island.<WAI0200<CLR
 Soon after, the Doctor would use the
 island as his flying fortress and
@@ -64,7 +64,7 @@ Were the countries of the surface
 able to withstand the Doctor's
 relentless attacks?<WAI0200<CLR<FAO0002
 That doesn't really matter...<WAI0200<CLR
-After escaping, you and Kazuma live a
+After escaping, you and Казума live a
 humble life, hidden deep within the
 safe confines of mountains...<WAI0200<CLR
 ...and out of the Doctor's reach.<WAI0200<CLR<CMU0026

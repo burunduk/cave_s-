@@ -26,7 +26,7 @@
 <MSG
 Відкрито скриньку зі скарбами.<NOD<CLR<GIT1016<CMU0010<CLR
 <MSG<IT+0016
-Obtained the Cure-All.<WAI0160<NOD<CLO
+Отримано Панацею.<WAI0160<NOD<CLO
 <GIT0000<RMU<CMU0004<CNP0300:0160:0000<BSL0300<END
 
 #0300

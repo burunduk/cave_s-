@@ -11,82 +11,83 @@
 #1002
 <MSG<TURПОЛЯРНА ЗІРКА 
 Твоя перша зброя.
-It carries the mark of the Northern Star.
+Вона відмічена знаком Північної Зірки.
 <WAI9999<END
 #1003
-<MSG<TURFIREBALL
-Its projectiles bounce on the ground.
-Quite useful on slopes.<WAI9999<END
+<MSG<TURВОГНЯНИЙ ШАР 
+Його кулі стрибають по землі.
+Чудово допомагає на схилах.<WAI9999<END
 #1004
 <MSG<TURКУЛЕМЕТ 
-A very high-speed firearm.
-Its ammo recharges gradually.<WAI9999<END
+Дуже швидка стрілкова зброя.
+Патрони поступово відновлюються.<WAI9999<END
 #1005
 <MSG<TURРАКЕТНИЦЯ 
-Long range arm dealing BIG damage.
-The downside: limited ammunition.<WAI9999<END
+Далекобійна зброя з ВЕЛИКИМ уроном.
+Недолік: обмежений боєзапас.<WAI9999<END
 #1007
-<MSG<TURBUBBLINE
-Found in the Assembly Hall fireplace.
-Use it as you like.<WAI9999<END
+<MSG<TURБУЛЬКОМЕТ 
+Знайдено в комині Залу Зібрань.
+Робіть із ним, що заманеться.<WAI9999<END
 #1009
 <MSG<TURМЕЧ 
-A one-hit projectile.
-Він містить дух короля.<WAI9999<END
+Стріляє одиничними зарядами.
+Містить в собі дух Короля.<WAI9999<END
 #1010
-<MSG<TURSUPER MISSILE
-Серьозне оновлення ракет.
-Швидші і небезпечніші.<WAI9999<END
+<MSG<TURСУПЕР-РАКЕТНИЦЯ 
+Значне покращення ракет.
+Швидші і більш смертоносні.<WAI9999<END
 #1012
-<MSG<TURNEMESIS
-Lightning of the Goddess.
-Level 1 deals the most damage.<WAI9999<END
+<MSG<TURНЕМЕЗІДА 
+Блискавка Богині 
+Максимальний урон на першому рівні.<WAI9999<END
 #1013
-<MSG<TURSPUR
-Hold the fire button to increase the
-potency of this modified Polar Star.<WAI9999<END
+<MSG<TURШПОРА 
+Модифікована Полярна Зірка. 
+Утримуй гашетку як найдовше, аби 
+збільшити силу пострілу.<WAI9999<END
 
 #1100
 <MSG<TUR
-Hajime<WAI9999<END
+Хадзіме <WAI9999<END
 #1101
 <MSG<TUR
-Mick<WAI9999<END
+Мік <WAI9999<END
 #1102
 <MSG<TUR
-Shinobu<WAI9999<END
+Шінобу <WAI9999<END
 #1103
 <MSG<TUR
-Kakeru<WAI9999<END
+Какеру <WAI9999<END
 #1104
 <MSG<TUR
-Nene<WAI9999<END
+Нене <WAI9999<END
 
 #1200
 <MSG<TUR
-Jenka's pet dog and leader of
-the bunch. Lost while looking for
-his siblings, he likes Curly's place.<WAI9999<END
+Це пес Jenka і вожак зграї. Він 
+загубився, шукаючи своїх братів.
+Дуже полюбляє бути в будинку Curly.<WAI9999<END
 #1201
 <MSG<TUR
-Jenka's pet and an adept treasure hunter
-who loves chests. He LOVES sleeping
-inside any chest he can find.<WAI9999<END
+Улюбленець Jenka і неймовірний шукач 
+скарбів. Він полюбляє спати в 
+будь-яких скринях, які знаходить.<WAI9999<END
 #1202
 <MSG<TUR
-Another of Jenka's lovable puppies.
-This poor little one suffers from bad
-vision, so he sticks to dark places.<WAI9999<END
+Ще один з улюблених цуценят Jenka.
+Бідолага має слабенький зір, тому він 
+тримається темних місць.<WAI9999<END
 #1203
 <MSG<TUR
-Best with a bone. Jenka's pet hides
-so many bones in so many places
-it's hard to keep track of them.<WAI9999<END
+Експерт по кістках. Цей пес закопує 
+так багато кісток в різних місця,
+що вслідкувати за ним дуже складно.<WAI9999<END
 #1204
 <MSG<TUR
-A beautiful dog belonging to Jenka.
-This one dreams the days away
-with long, long naps.<WAI9999<END
+Цей красень належить Jenka. Він 
+спить днями і ночам, час проводить 
+у довгому, довгому сні.<WAI9999<END
 #5000
 <MSG<TUR
 Немає предметів.<WAI9999<END
@@ -104,7 +105,7 @@ with long, long naps.<WAI9999<END
 Срібний медальйон <WAI9999<END
 #5005
 <MSG<TUR
-Beast Fang<WAI9999<END
+Ікло звіра <WAI9999<END
 #5006
 <MSG<TUR
 Капсула здоров'я <WAI9999<END
@@ -113,16 +114,16 @@ Beast Fang<WAI9999<END
 Картка доступу <WAI9999<END
 #5008
 <MSG<TUR
-Jellyfish Jelly<WAI9999<END
+Екстракт медузи <WAI9999<END
 #5009
 <MSG<TUR
 Іржавий ключ <WAI9999<END
 #5010
 <MSG<TUR
-Gum Key<WAI9999<END
+Ключ від складу <WAI9999<END
 #5011
 <MSG<TUR
-Gum Base<WAI9999<END
+Гумова основа <WAI9999<END
 #5012
 <MSG<TUR
 Вугілля <WAI9999<END
@@ -139,10 +140,10 @@ Gum Base<WAI9999<END
 Пес <WAI9999<END
 #5015
 <MSG<TUR
-Life Pot<WAI9999<END
+Пляшечка здоров'я <WAI9999<END
 #5016
 <MSG<TUR
-Cure-All<WAI9999<END
+Панацея <WAI9999<END
 #5017
 <MSG<TUR
 Ключ від клініки <WAI9999<END
@@ -151,16 +152,16 @@ Cure-All<WAI9999<END
 Прискорювач v0.8<WAI9999<END
 #5019
 <MSG<TUR
-Arms Barrier<WAI9999<END
+Щит <WAI9999<END
 #5020
 <MSG<TUR
 Turbocharge<WAI9999<END
 #5021
 <MSG<TUR
-Curly's Air Tank<WAI9999<END
+Кисневий балон Curly <WAI9999<END
 #5022
 <MSG<TUR
-290 Counter<WAI9999<END
+Лічильник 290 <WAI9999<END
 #5023
 <MSG<TUR
 Прискорювач v2.0<WAI9999<END
@@ -175,66 +176,66 @@ Curly's Air Tank<WAI9999<END
 Лист Сью <WAI9999<END
 #5027
 <MSG<TUR
-Controller<WAI9999<END
+Контролер <WAI9999<END
 #5028
 <MSG<TUR
-Зламаний розпилювач <WAI9999<END
+Зламаний розбризкувач <WAI9999<END
 #5029
 <MSG<TUR
-Розпилювач <WAI9999<END
+Розбризкувач <WAI9999<END
 #5030
 <MSG<TUR
-Tow Rope<WAI9999<END
+Трос для буксирування <WAI9999<END
 #5031
 <MSG<TUR
-Medal of the Red Ogre<WAI9999<END
+Медаль Червоного Огра <WAI9999<END
 #5032
 <MSG<TUR
-Mister Little<WAI9999<END
+Містер Літтл <WAI9999<END
 #5033
 <MSG<TUR
-Mushroom Badge<WAI9999<END
+Грибний Значок <WAI9999<END
 #5034
 <MSG<TUR
-Ma Pignon<WAI9999<END
+Ma Pignon <WAI9999<END
 #5035
 <MSG<TUR
-Curly's Panties<WAI9999<END
+Спіднє Curly <WAI9999<END
 #5036
 <MSG<TUR
-Alien Medal<WAI9999<END
+Медаль прибульця <WAI9999<END
 #5037
 <MSG<TUR
-Chako's Rouge<WAI9999<END
+Помада Тяко <WAI9999<END
 #5038
 <MSG<TUR
-Whimsical Star<WAI9999<END
+Дивакувата зірка <WAI9999<END
 #5039
 <MSG<TUR
-Iron Bond<WAI9999<END
+Стальні кайдани <WAI9999<END
 
 #6000
 <MSG<TUR
 Немає предметів.<WAI9999<END
 #6001
 <MSG<TUR
-One of two keys to Arthur's house.
-It was found near Arthur's gravestone.<WAI9999<END
+Один з двох ключів від будинку Артура.
+Було знайдено біля його могили.<WAI9999<END
 #6002
 <PRI<EVE7002<MPJ7002<MSG
-No data for this floor.<NOD<CLR<END
+Немає даних про цей поверх.<NOD<CLR<END
 #6003
 <MSG<TUR
 Ключ від будинку Санти.<WAI9999<END
 #6004
 <MSG<TUR
-A silver locket in the shape of a fish.
-From the wear on it, the locket must've
-been dear to someone for many years.<WAI9999<END
+Срібний медальйон у вигляді рибки.
+Потертості вказують, на те, що 
+його носили довгі роки.<WAI9999<END
 #6005
 <MSG<TUR
-You're not supposed to find this.
-How'd you do it?<WAI9999<END
+Ти не повинен був знайти це.
+Як у тебе це вийшло?<WAI9999<END
 #6006
 <MSG<TUR
 Капсула здоров'я.<WAI9999<END
@@ -243,13 +244,13 @@ How'd you do it?<WAI9999<END
 Картка доступу з яйця №06.<WAI9999<END
 #6008
 <MSG<TUR
-A fluid that can extinguish fires.<WAI9999<END
+Рідина, яка може загасити вогонь.<WAI9999<END
 #6009
 <MSG<TUR
 Проржавівший ключ.<WAI9999<END
 #6010
 <MSG<TUR
-It has the word, "Gum".<WAI9999<END
+Напис: "Склад".<WAI9999<END
 #6011
 <MSG<TUR
 Шматок пластиду.<WAI9999<END
@@ -266,7 +267,7 @@ It has the word, "Gum".<WAI9999<END
 <FLJ3003:1203
 <FLJ3004:1204
 <MSG<TUR
-Jenka's pet dog.<WAI9999<END
+Улюблений пес Jenka.<WAI9999<END
 #6015
 <KEY<MSG
 Це відновить твоє здоров'я, але 
@@ -274,33 +275,34 @@ Jenka's pet dog.<WAI9999<END
 Здоров'я відновлено.<FRE<WAI9999<END
 #6016
 <MSG<TUR
-A medicine that cures anything?<WAI9999<END
+Ліки, які лікують будь-що?<WAI9999<END
 #6017
 <MSG<TUR
-It reads, "Labyrinth Clinic".<WAI9999<END
+Напис: "Лікарня лабіринту".<WAI9999<END
 #6018
 <FLJ0742:7018
 <KEY<MSG
-Push the jump button while airborne
-to boost for a limited time.<NOD<CLR
+Утримуй кнопку стрибку, коли 
+знаходишся в повітрі. Це дозволить 
+триматися деякий час в повітрі.<NOD<CLR
 Застосувати його?<YNJ0000<EQ+0001<FL+0742<EQ-0032<FL-0743<MSG
 Прискорювач застосовано.<NOD<WAI0003<FRE<EVE5018
 #6019
 <MSG<TUR
-Weapon energy lost from sustaining
-damage is halved.<WAI9999<END
+Потужність зброї втрачається 
+під час отримання пошкоджень.<WAI9999<END
 #6020
 <MSG<TUR
-Speeds up the rate of ammo
-recovery from the machine gun.<WAI9999<END
+Прискорює відновлення патронів 
+в кулеметі.<WAI9999<END
 #6021
 <MSG<TUR
-Allows for underwater breathing.
-Curly gave it to you.<WAI9999<END
+Дозволяє дихати під водою.
+Вам позичила його Curly.<WAI9999<END
 #6022
 <MSG<TUR
-A fully automatic timer.
-It has no buttons.<WAI9999<END
+Автоматичний таймер.
+Він не має жодних кнопок.<WAI9999<END
 #6023
 <FLJ0743:7023
 <KEY<MSG
@@ -310,16 +312,16 @@ and boost in one of four directions.<NOD<CLR
 Прискорювач v2.0 застосовано.<NOD<WAI0003<FRE<EVE5023
 #6024
 <MSG<TUR
-A mask made by Momorin Sakamoto.
-It's kinda big for you...<WAI9999<END
+Маска роботи Momorin Sakamoto.
+Трохи завелика для тебе...<WAI9999<END
 #6025
 <MSG<TUR
-A key fished out by a friendly
-Mimiga named Kanpachi.<WAI9999<END
+Ключ, який виловив знайомий міміґа 
+на ім'я Kanpachi.<WAI9999<END
 #6026
 <KEY<MSG
-Want to read it?<YNJ0000<MSG<TUR
-Hey, it's me, Sue.<NOD<CLR
+Бажаєш прочитати його?<YNJ0000<MSG<TUR
+Привіт, це я, Сью.<NOD<CLR
 I don't remember telling you anything
 about us. We came to the island as a
 research group.<NOD<CLR
@@ -368,32 +370,32 @@ of her own to beat the Doctor.<NOD<CLR
 Please, help her as much as you can.<NOD<CLR
 Before I forget, the password to get
 into the safe house is "yrotS evaC".<NOD<CLR<FL+1024<FRE<MSG
-That's the end of the letter.<WAI9999<END
+На цьому лист закінчується.<WAI9999<END
 #6027
 <MSG<TUR
-Required to make a rocket.
+Необхідний, аби доробити ракету.
 Pride of Itoh, the big fat coward.<WAI9999<END
 #6028
 <MSG<TUR
 Зламаний водяний розбризкувач.<WAI9999<END
 #6029
 <MSG<TUR
-It's new. ...Isn't it?<WAI9999<END
+Цей начебто цілий... Невже?<WAI9999<END
 #6030
 <MSG<TUR
-A tow rope for robots.<WAI9999<END
+Трос для буксирування роботів.<WAI9999<END
 #6031
 <MSG<TUR
-Small and incredibly heavy.
-It has no use.<WAI9999<END
+Маленька і неймовірно тяжка.
+Не має застосування.<WAI9999<END
 
 #6032
 <MSG<TUR
-We there yet?<WAI9999<END
+Ми вже на місці?<WAI9999<END
 #6033
 <MSG<TUR
-A mushroom badge obtained from
-Ma Pignon. It serves no purpose. <FL+1563<WAI9999<END
+Грибний значок, отриманий від 
+Ma Pignon. Абсолютно безкорисний. <FL+1563<WAI9999<END
 #6034
 <MSG<TUR
 It is said to have the power to
@@ -410,18 +412,18 @@ space alien. It has no use, Ika...<WAI9999<END
 #6037
 <MSG<TUR
 Red lipstick from Chako.
-It has no use.<WAI9999<END
+Не має застосування.<WAI9999<END
 #6038
 <KEY<MSG
 A little item from Chaba in the
 labyrinth, a whimsical star.<NOD<FLJ0722:7038<CLR
-Equip it?<YNJ0000<EQ+0128<FL+0722<MSG
+Одягти?<YNJ0000<EQ+0128<FL+0722<MSG
 Equipped the Whimsical Star.<NOD<WAI0003<FRE<EVE5038
 #6039
 <MSG<TUR
-Your connection to Curly Brace,
-the only person you trust.
-You'll see each other again...<WAI9999<END
+Твій зв'язок із Curly Brace,
+єдина, кому ти можеш довіряти.
+Ви ще побачитесь один з одним...<WAI9999<END
 
 #7002
 <MLP<END
@@ -438,7 +440,7 @@ You'll see each other again...<WAI9999<END
 #7038
 <KEY<MSG
 Зняти його?<YNJ0000<EQ-0128<FL-0722<MSG
-Unequipped the Whimsical Star.<NOD<WAI0003<FRE<EVE5038
+Ви зняли Дивакувату Зірку.<NOD<WAI0003<FRE<EVE5038
 
 >>>
 3000 еўнB

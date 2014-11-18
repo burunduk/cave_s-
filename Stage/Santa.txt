@@ -32,7 +32,7 @@
 Вугілля горить в комині Санти.<NOD<END
 #0301
 <KEY<GIT1008<MSG
-Use the Jellyfish Juice?<YNJ0000<CLO<GIT0000
+Використати Екстракт Медузи?<YNJ0000<CLO<GIT0000
 <IT-0008<ANP0300:0010:0000<WAI0030<FLJ0242:0302<FL+0242
 <MSG
 Щось залишилось в попелі...<NOD<CLR<GIT1012<IT+0012
@@ -51,7 +51,7 @@ Use the Jellyfish Juice?<YNJ0000<CLO<GIT0000
 <KEY<FL+0240<MSG
 Знову дякую тобі за допомогу.<NOD
 Я бажаю тобі дещо дати.<NOD<GIT0003<AM+0003:0000<CLR
-<CMU0010Obtained the Fireball.<WAI0160<NOD<RMU<GIT0000<CLR
+<CMU0010Отримано Вогняну Кулю.<WAI0160<NOD<RMU<GIT0000<CLR
 Когось шукаєш?<NOD
 Я нікого не бачив поблизу.<NOD
 Але якщо ти бажаєш йти далі 

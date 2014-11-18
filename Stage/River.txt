@@ -38,5 +38,5 @@
 #0221
 <PRI<WAI0000<KEY<FL+0851
 <WAS<WAI0050<PRI<MSG
-Curly's life force has terminated...<NOD<END
+Життєва сила Curly's вичерпалась...<NOD<END
 

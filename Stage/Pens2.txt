@@ -31,7 +31,7 @@
 —ью: so you were able to 
 escape too?<NOD
 —ью: де ти тепер?<NOD
-—ью: я знайшл€ €йц€ дракон≥в <NOD
+—ью: я знайшла €йц€ дракон≥в <NOD
 —ью: is mom with you?<NOD<FAO0004<TRA0018:0701:0002:0000
 #0702
 <KEY<FAI0004<MSG<FAC0001

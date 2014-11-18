@@ -30,7 +30,7 @@
 #0101
 <SOU0022<GIT1001<FL+0324<FL+0441
 <MSG
-Використано ключ Артура.<NOD<GIT0000<CLO<EVE0102
+Використано Ключ Артура.<NOD<GIT0000<CLO<EVE0102
 #0102
 <SOU0011<CNP0100:0000:0000<FAO0004<TRA0001:0094:0017:0008
 
@@ -114,12 +114,12 @@ This is my hope.<NOD<END
 Я вважав, що ти один 
 із них...<NOD<CLR
 Мене звати Кінґ.<NOD
-I'm the number one in
-this village.<NOD
-Though I say number one, it 
-doesn't really mean much.<NOD
-There are only six of us 
-left in the village.<NOD<CLR
+Я перший в цьому 
+посселені.<NOD
+Коли я сказав перший, це 
+не відповідає дійсності.<NOD
+Нас лишилось лише шестеро 
+в поселені.<NOD<CLR
 Ну, якщо чесно...<NOD<CLR
 ...включно із Сью буде сім.
 Але вона не одна із нас.<NOD
@@ -272,7 +272,7 @@ I won't let that happen!<NOD<CLO
 
 #0501
 <KEY<MSG<TUR
-                   Ферма ямашити<NOD<END
+                   Ферма Ямашити <NOD<END
 #0502
 <KEY<MSG<TUR
                  Резервуар <NOD<END
@@ -285,7 +285,7 @@ I won't let that happen!<NOD<CLO
               Будинок Артура <NOD<END
 #0505
 <KEY<MSG<TUR
-                 Зала для зборів<NOD<END
+                 Зала для зборів <NOD<END
 
 
 #0600
@@ -303,7 +303,7 @@ getting used to everything.<NOD<CLR
 .....<NOD<CLR
 I have an idea.<NOD<CLR
 You can go in my place!<NOD<CLR
-My brother, Kazuma, is stuck
+My brother, Казума, is stuck
 in an area called Bushlands.<NOD
 Bring him back here.<NOD<END
 

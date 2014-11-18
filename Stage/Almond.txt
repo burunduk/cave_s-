@@ -30,8 +30,8 @@
 <FLJ0824:0203
 <FLJ0823:0202
 <FLJ0821:0201<MSG
->_ OPEN BLAST DOOR?<YNJ0000<CLR
->_ OPENING BLAST DOOR.<NOD<CLO<MYD0000
+>_ ВІДКРИТИ ПРОТИВУБУХОВІ ДВЕРІ?<YNJ0000<CLR
+>_ ПРОТИВИБУХОВІ ДВЕРІ ВІДКРИВАЮТЬСЯ.<NOD<CLO<MYD0000
 <WAI0030<ANP0250:0010:0001<WAI0010<ANP0300:0001:0002
 <WAI0022<ANP0251:0010:0001<ANP0300:0003:0002
 <WAI0032<ANP0252:0010:0001
@@ -43,12 +43,12 @@
 <CNP0301:0117:0000
 <ANP0301:0021:0002
 <FL-0820<FL+0821<FL+0822<MSG
->_ BLAST DOOR NO.4 CURRENTLY 
-MALFUNCTIONING.<NOD<END
+>_ ПРОТИВИБУХОВІ ДВЕРІ №4 
+НЕСПРАВНІ.<NOD<END
 #0201
 <KEY<MSG
->_ BLAST DOOR NO.4 CURRENTLY 
-MALFUNCTIONING.<NOD<END
+>_ ПРОТИВИБУХОВІ ДВЕРІ №4 
+НЕСПРАВНІ.<NOD<END
 #0202
 <KEY<MSG
 >_ ОПУСТИТИ ПІДЙОМНИК?<YNJ0000<CLR<FL+0824
@@ -67,14 +67,14 @@ MALFUNCTIONING.<NOD<END
 
 #0210
 <KEY<FLJ0830:0212<FLJ0825:0211<MSG
->_ OPEN BLAST DOOR?<YNJ0000<CLR<FL+0825
->_ OPENING BLAST DOOR.<NOD<CLO<WAI0040
+>_ ВІДКРИТИ ПРОТИВУБУХОВІ ДВЕРІ?<YNJ0000<CLR<FL+0825
+>_ ПРОТИВИБУХОВІ ДВЕРІ ВІДКРИВАЮТЬСЯ.<NOD<CLO<WAI0040
 <ANP0256:0010:0001<WAI0128<DNP0256
 <MSG
->_ BLAST DOOR OPENED.<NOD<END
+>_ ПРОТИВИБУХОВІ ДВЕРІ ВІДКРИТО.<NOD<END
 #0211
 <KEY<MSG
->_ BLAST DOOR OPENED.<NOD<END
+>_ ПРОТИВИБУХОВІ ДВЕРІ ВІДКРИТО.<NOD<END
 #0212
 <KEY<MSG
 >_ ПОМИЛКА.<NOD<END
@@ -84,7 +84,7 @@ MALFUNCTIONING.<NOD<END
 There's something wrapped around a
 broken robot's arm.<NOD<CLR
 Will you take it?<YNJ0000<CLR<GIT1030<DNP0240<IT+0030<FL+0839<CLR
-<CMU0010Obtained the Tow Rope.<WAI0160<NOD<RMU<END
+<CMU0010Отримано the Tow Rope.<WAI0160<NOD<RMU<END
 #0241
 <PRI<MSG
 ...?<NOD<END
@@ -111,17 +111,17 @@ incredible amount of damage.<NOD<END
 
 #0300
 <KEY<MSG<FAC0019
-This is a strange place.<NOD
-Was it some kind of base?<NOD<END
+Яке дивне місце.<NOD
+Це схоже на якусь базу?<NOD<END
 #0301
 <KEY<FLJ0823:0302<MSG<FAC0025
-This blast door...
-It's only opened halfway...<NOD<CLR
-I think it must be caught
-on something...<NOD<END
+Ці противибухові двері...
+Вони відкриті лише на половину...<NOD<CLR
+Я вважаю їм щось заважає...<NOD<END
 #0302
 <KEY<MSG<FAC0019
-Blast door after blast door.<NOD
+Противибухові двері за 
+противибуховими дверима.<NOD
 There's something behind all
 this crazy security.<NOD
 Ти так не вважаєш?<NOD<END
@@ -190,8 +190,8 @@ Wrapped the Tow Rope around Curly.<NOD<END
 <FLJ0837:0304
 <FLJ0828:0305
 <MYB0002<WAI0030<MYD0002<MSG<FAC0019
-Look!<NOD<CLR
-A soldier from the surface?<NOD
+Гляди!<NOD<CLR
+Солдат з поверхні?<NOD
 He's been nearly destroyed.<NOD<CLO<FAC0000
 <FON0254:0016<ANP0450:0001:0000
 <WAI0040
@@ -208,7 +208,7 @@ all over the place.<NOD
 <FAC0019Він ще функціонує!<NOD<CLR
 <FAC0024...ПеРЕза..ванТаЖен..ня.<NOD<CLR
 КОМАНДА 9 ЗНИЩЕНА.<NOD
-UNABLE TO ELIMINATE 
+НЕМОЖЛИВО TO ELIMINATE 
 THE TARGET.<NOD<CLR
 DESTRUCTION OF TARGET IS
 IMPOSSIBLE WITH CURRENTLY 
@@ -268,7 +268,7 @@ along with the island?!?<NOD<CLR
 <MSG<FAC0021
 МІЗЕРІ!!<NOD<CLR
 Що ти робиш?!?
-Move the Core to the lab NOW!<NOD<CLR
+Перемісти Ядро до лабораторії НЕГАЙНО!<NOD<CLR
 While you still have time!<NOD<CLO<FAC0000
 <ANP0400:0013:0002<WAI0050
 <CNP0400:0082:0002<WAI0020
