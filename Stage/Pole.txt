@@ -21,7 +21,7 @@
 <KEY<FLJ1640:0201<FL+1640<SOU0022<CNP0200:0021:0000
 <MSG
 Відкрито скриньку зі скарбами.<NOD<GIT0002<AM+0002:0000<CLR<CMU0010
-Obtained the Polar Star.<WAI0160<NOD<GIT0000<CLO<RMU
+Отримано Полярну Зірку.<WAI0160<NOD<GIT0000<CLO<RMU
 <MSG
 Чиясь передача даних...<FAO0004<NOD<TRA0018:0501:0002:0000
 
@@ -34,7 +34,7 @@ Obtained the Polar Star.<WAI0160<NOD<GIT0000<CLO<RMU
 
 #0300
 <KEY<MSG
-ZZZzzz...zzz...<NOD<END
+Хррр... хрр...<NOD<END
 
 #0301
 <FLJ1644:0303
@@ -57,7 +57,7 @@ Such a shame...<NOD<END
 Я не робив її тобі!<NOD<CLR
 Поверни її назад!!<NOD<CLR<CNP0210:0150:0012<WAI0012<GIT0000<HMC
 Полярну Зірку конфісковано...<NOD<CLR
-Hmph!<NOD
+Хм!<NOD
 You've apparently put a significant
 amount of wear on it.<NOD<CLR
 .....<NOD<CLR

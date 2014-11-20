@@ -59,8 +59,8 @@
 <FL+0410
 <DNP0300
 <MSG
-You don't see anything...<NOD<CLR<CMU0010<GIT1005<IT+0005
-How did you get the Beast Fang?
+Ви нічого не бачили...<NOD<CLR<CMU0010<GIT1005<IT+0005
+Як ви дістали Ікло Звіра?
 ...<WAI0160<NOD<CLO
 <RMU<END
 

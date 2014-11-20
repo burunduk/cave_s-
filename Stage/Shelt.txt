@@ -23,7 +23,7 @@
 <KEY<FLJ0524:0103
 <MSG
 Телепортер.<NOD<CLR
-Its use seems to be suspended...<NOD<END
+Схоже, тимчасово заблокований...<NOD<END
 #0103
 <PRI<MSG
 Телепортуватись на Плантації?<YNJ0000<CLO
@@ -41,47 +41,48 @@ Its use seems to be suspended...<NOD<END
 <FL+0520<SOU0011<DNP0101
 <WAI0050<MYD0002<MOV0006:0010
 <CMU0010<MSG<FAC0010
-All right!<WAI0160<NOD<CMU0008<CLR
-You did well, boy!<NOD
-Just one look and I knew--<NOD
-I knew you could do it!<NOD<CLR
+О так!<WAI0160<NOD<CMU0008<CLR
+Ти зробив це, хлопче!<NOD
+Вистачило одного погляду, 
+і я одрозу ж зрозумів...<NOD
+Зрозумів, що ти зробиш це!<NOD<CLR
 .....<NOD
 <CLR
-Um...<NOD
+Ем...<NOD
 Мене звати Казума Сакомото.<NOD
 Але називай мене просто, Казума.<NOD<CLR
-Luckily, I was able to escape
-from the Doctor, but then...<NOD
-I was teleported here.<NOD
-It felt like I was about to die
-of total starvation...<NOD
-You're a real life saver!<NOD<CLR
-By the way...<NOD<CLR
-Have you heard of a place
-called Mimiga Village?<NOD<CLR
+На щастя, я зміх заховатись 
+від Доктора, але потім...<NOD
+Я телепортувався сюди.<NOD
+І вже почав вважати, що 
+загину тут від голоду...<NOD
+Ти справжній рятівниr!<NOD<CLR
+Доречі...<NOD<CLR
+Ти чув про таке місце, 
+як поселення Міміґ?<NOD<CLR
 ...Сью?<NOD<CLR
 Ти знаєш Сью?!<NOD<CLR
 Я бачу...<NOD
-So, you've come to get me
-in place of Sue.<NOD<CLR
-I understand.<NOD
+То ти прийшов рятувати 
+мене, замість Сью.<NOD<CLR
+Я розумію.<NOD
 Йдемо!
-Take me to the village!<NOD<SOU0043<ANP0102:0001:0000<WAI0030<ANP0210:0000:0002<CLR
+Відведеш мене до поселення!<NOD<SOU0043<ANP0102:0001:0000<WAI0030<ANP0210:0000:0002<CLR
 ?!<NOD<CLO<FAC0000
 <CNP0303:0113:0000<ANP0303:0030:0000<WAI0100
 <FAC0000<MSG<ANP0102:0000:0000<FAC0018
-Is that you, Казума?!<NOD<CLR<FAC0010
-Professor Booster!!<NOD
-So you're safe!<NOD<CLR<FAC0018
-Yes, somehow.<NOD<CLO
+Це ти, Казума?!<NOD<CLR<FAC0010
+Професоре Бустер!!<NOD
+З вами все гаразд!<NOD<CLR<FAC0018
+Так, начебто.<NOD<CLO
 <ANP0303:0003:0000<WAI0040
 <ANP0303:0000:0002<WAI0030
 <ANP0303:0000:0000<WAI0030
 <FAC0000<MSG<FAC0018
-And how's Sue?<NOD
-Is she safe?!<NOD<CLR<FAC0010
+А як Сью?<NOD
+Вона в безпеці?!<NOD<CLR<FAC0010
 Вона в поселені Міміґ.<NOD
-This boy will get us there.<NOD<CLO
+Цей хлопець відведе нас.<NOD<CLO
 <WAI0020<ANP0210:0000:0000<WAI0010
 <FAC0000<MSG<FAC0018
 Ох...<NOD<CLO
@@ -90,7 +91,7 @@ This boy will get us there.<NOD<CLO
 Ти знайомий з ним?<NOD<CLR<FAC0018
 .....<NOD<CLR
 Ні...<NOD<CLR
-<ANP0303:0000:0002Um, actually, we just met.<NOD<CLR
+<ANP0303:0000:0002Хм, ми щойно зустрілись.<NOD<CLR
 Anyway, let's hurry and get
 to Sue's location.<NOD
 The Doctor has started to
@@ -110,19 +111,19 @@ this means?<NOD<CLR<FAC0010<CMU0000
 <ANP0303:0003:0002<WAI0032
 <ANP0303:0000:0002
 <MSG<FAC0018
-That's right.<NOD<CMU0008
-And now we're the only ones
-who can stop him.<NOD<CLR<FAC0010
-But how are we going to 
-stop the Doctor?<NOD<CLR<FAC0018
-I have an idea.<NOD
-At any rate, let's hurry and
-get back to Sue.<NOD
-We'll discuss when we're there.<NOD<FAC0000<CLO
+Саме так.<NOD<CMU0008
+І тепер ми єдині, хто 
+може зупинити його.<NOD<CLR<FAC0010
+Але як ми збираємось 
+зупинити його?<NOD<CLR<FAC0018
+Я маю одну ідею.<NOD
+У будь-якому разі, хутчіш 
+повертаймося до Сью.<NOD
+Обговоримо все на місці.<NOD<FAC0000<CLO
 <ANP0303:0003:0000<WAI0038
 <MYB0002<WAI0016<MYD0002<ANP0303:0000:0000
 <MSG<FAC0018
-I want you to come, too.<NOD<CLO
+Я хочу, аби ти теж пішов.<NOD<CLO
 <ANP0303:0005:0000<WAI0020<DNP0303
 <ANP0210:0003:0000<WAI0078
 <ANP0210:0005:0000<WAI0020<DNP0210
@@ -136,8 +137,8 @@ I want you to come, too.<NOD<CLO
 #0210
 #0220
 <KEY<FLJ0524:0221<MSG<TUR
-Use of this teleporter is currently
-suspended.<NOD<END
+Робота телепорту тимчасово 
+призупинено.<NOD<END
 #0221
 <KEY<MSG<TUR
 Можлива телепортація на 
@@ -162,10 +163,10 @@ suspended.<NOD<END
 Казума: ти тут?<NOD
 Казума: це я <NOD
 Казума: Казума!<NOD
-Казума: I was somehow able to escape,
-but I got lost<NOD
-Казума: I'm in a shelter without
-anything inside<NOD
+Казума: Я зміг вибратись, але 
+потім заблукав.<NOD
+Казума: Я в сховищі, але тут 
+нічого немає.<NOD
 Казума: Якщо ти читаєш це, 
 будь-ласка, відпишись.<NOD<CLR
 Казума: ...агов?<NOD
@@ -175,13 +176,13 @@ anything inside<NOD
 #0501
 <KEY<HMC<CMU0021<FAI0004
 <MSG
-Пошук користувача "Сью".<WAI0150<CLR<MSG
-Один запис "Сью" знайдено.<WAI0150<CLR<MSG
+Пошук користувача «Сью».<WAI0150<CLR<MSG
+Один запис «Сью» знайдено.<WAI0150<CLR<MSG
 Казума: СЬЮЮЮЮ!<NOD
 Казума: відпиши мені <NOD
-Казума: they're looking for you
+Казума: вони шукають тебе 
 Казума: ти заснула, чи що?<NOD
-Казума: your brother is so lonely...<NOD<FAO0004<SMC<CLO
+Казума: твій брат такий самотній...<NOD<FAO0004<SMC<CLO
 <TRA0090:0095:0014:0009
 
 
@@ -190,12 +191,12 @@ anything inside<NOD
 <MSG
 Казума: давай же, Сью!!!<NOD
 Казума: напиши хоча б щось?<NOD
-Казума: starving over here...
-Казума: I'm so hungry that, that...
-Казума: I even ate a cockroach<NOD
-Казума: LOL just kidding!!!<NOD<CLR
-Казума: but, just so you know, if I get
-to that point I'll do it<NOD<FAO0004<SMC<TRA0011:0302:0008:0006
+Казума: тут немає чим перекусити...
+Казума: Я так зголовнів, що...
+Казума: Я зміг би з'їсти таргана <NOD
+Казума: Ха, жартую!!!<NOD<CLR
+Казума: але май на увазі, якщо 
+доведеться, я зроблю це.<NOD<FAO0004<SMC<TRA0011:0302:0008:0006
 
 
 #0700
@@ -206,8 +207,8 @@ to that point I'll do it<NOD<FAO0004<SMC<TRA0011:0302:0008:0006
 <KEY<FAI0004<MSG
 Казума: двері заклинило, і я не можу 
 вибратися з відси.<NOD
-Казума: I'm still in a shelter-looking
-sorta room<NOD
+Казума: Я ще в кімнаті, дуже схожу 
+на сховище <NOD
 Казума: by the way, the code that you
 need to teleport is "Bushlands"<NOD
 Казума: try searching from your end<NOD<CLR
@@ -219,10 +220,10 @@ eggs about ready to hatch yet?<NOD<FAO0004<TRA0024:0702:0002:0000
 
 #0702
 <KEY<FAI0004<MSG
-Казума: roger that!<NOD
-Казума: and do me a favor, bring some
-food back on your wa--<NOD<CLR
+Казума: Зрозумів!<NOD
+Казума: і дуже тебе прошу, візьми 
+трохи їжі з соб--<NOD<CLR
 <MSG
-Користувач "Сью" від'єднався.<NOD<CLR
+Користувач «Сью» від'єднався.<NOD<CLR
 Єєх...<NOD<FAO0004<TRA0024:0703:0002:0000
 
